@@ -1,0 +1,4949 @@
+[{
+  "_id": {
+    "$oid": "633350996ce3123a75f707d8"
+  },
+  "AudioNombre": "FALFLUSP_20220907-091021_56973330025_557_175320682-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296832320"
+    }
+  },
+  "HoraTranscripcion": "16:40:32",
+  "MT_DNIS": "56973330025",
+  "MT_Destinatario": "Javiera Belmar",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Javiera Belmar",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "MT_Folio": "6",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALFLUSP_20220907-091021_56973330025_557_175320682-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "7755339-8",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "2",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALFLUSP -CI",
+  "TiempoAudio": 63.215935,
+  "TiempoSilencio": 32.4293124,
+  "Agent_spk": -1,
+  "Confidence": 0.91552734,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 7.6735134,
+      "end": 8.072613,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 9.11027,
+      "end": 11.406216,
+      "transcript": "Buenos días. Con la señorita Teresa O?"
+    },
+    {
+      "speaker": 0,
+      "start": 12.702162,
+      "end": 15.695404,
+      "transcript": "No, De parte de quién? Javier Del Banco Fa?"
+    },
+    {
+      "speaker": 0,
+      "start": 16.388718,
+      "end": 17.505846,
+      "transcript": "Esta personal este número?"
+    },
+    {
+      "speaker": 0,
+      "start": 18.82246,
+      "end": 21.056717,
+      "transcript": "Dígame, sí. Pero ayudarte en este momento?"
+    },
+    {
+      "speaker": 0,
+      "start": 21.61528,
+      "end": 23.251076,
+      "transcript": "Ah, ya. Hablo con algún familiar?"
+    },
+    {
+      "speaker": 0,
+      "start": 25.265,
+      "end": 30.085,
+      "transcript": "Podría yo dejarle un numerito de teléfono con usted para que no se pudiese comunicar y entregarle la información?"
+    },
+    {
+      "speaker": 0,
+      "start": 31.759998,
+      "end": 35.12,
+      "transcript": "Mire, le voy a dar el número de teléfono de para que se comunique, ella mejor."
+    },
+    {
+      "speaker": 0,
+      "start": 35.92,
+      "end": 36.28,
+      "transcript": "Claro."
+    },
+    {
+      "speaker": 0,
+      "start": 37.16,
+      "end": 38.039997,
+      "transcript": "Te cuento ahora acá."
+    },
+    {
+      "speaker": 0,
+      "start": 38.8,
+      "end": 38.879997,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 45.247643,
+      "end": 45.747643,
+      "transcript": "Nueve"
+    },
+    {
+      "speaker": 0,
+      "start": 46.48602,
+      "end": 46.98602,
+      "transcript": "nueve"
+    },
+    {
+      "speaker": 0,
+      "start": 47.937263,
+      "end": 48.795773,
+      "transcript": "siete nueve"
+    },
+    {
+      "speaker": 0,
+      "start": 49.21196,
+      "end": 49.411133,
+      "transcript": "dos."
+    },
+    {
+      "speaker": 0,
+      "start": 50.24765,
+      "end": 51.10616,
+      "transcript": "Cuatro nueve"
+    },
+    {
+      "speaker": 0,
+      "start": 51.44268,
+      "end": 52.080025,
+      "transcript": "cuatro nueve."
+    },
+    {
+      "speaker": 0,
+      "start": 52.67754,
+      "end": 53.63356,
+      "transcript": "Veintiséis doce."
+    },
+    {
+      "speaker": 0,
+      "start": 54.191242,
+      "end": 56.999264,
+      "transcript": "Veintinueve entonces. Este el número personal de la señora teresa?"
+    },
+    {
+      "speaker": 0,
+      "start": 57.75752,
+      "end": 60.551098,
+      "transcript": "Ese número la voy contactar. Muy. Muchísimas gracias."
+    },
+    {
+      "speaker": 0,
+      "start": 61.309357,
+      "end": 61.809357,
+      "transcript": "Hasta."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707df"
+  },
+  "AudioNombre": "FALRESP_20220910-113930_56996094069_378_175459523-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALRESP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296853743"
+    }
+  },
+  "HoraTranscripcion": "16:40:53",
+  "MT_DNIS": "56996094069",
+  "MT_Destinatario": "Rosa Lagos",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Rosa Lagos",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662768000000"
+    }
+  },
+  "MT_Folio": "1322",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALRESP_20220910-113930_56996094069_378_175459523-all",
+  "MT_NombreScript": "Acobro_BANCO REQUESICIONES",
+  "MT_RutDestinatario": "12948314-8",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "969",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALRESP -CD",
+  "TiempoAudio": 192.23994,
+  "TiempoSilencio": 100.00574899999997,
+  "Agent_spk": -1,
+  "Confidence": 0.9394531,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 11.463215,
+      "end": 16.008844,
+      "transcript": "Aló, buenos días. Muy buenos días. Con el señor Dani Eduardo Salinas Hidalgo?"
+    },
+    {
+      "speaker": 0,
+      "start": 16.686703,
+      "end": 17.979074,
+      "transcript": "Sí, con él con."
+    },
+    {
+      "speaker": 0,
+      "start": 18.378574,
+      "end": 23.172575,
+      "transcript": "Gusto. Usted habla con Rosa Lago le cobro por el cargo de Banco Fa. Cómo está?"
+    },
+    {
+      "speaker": 0,
+      "start": 24.291174,
+      "end": 25.244999,
+      "transcript": "Ay nombre número"
+    },
+    {
+      "speaker": 0,
+      "start": 25.863138,
+      "end": 37.16246,
+      "transcript": "ya. Mire, le informo que esta está siendo grabada por motivos de seguridad, y es con la deuda que estamos pendiente de tres millones doscientos ciento setenta de y mil cuatrocientos sesenta el dos son créditos de consumo,"
+    },
+    {
+      "speaker": 0,
+      "start": 37.68044,
+      "end": 41.067226,
+      "transcript": "y el otro de once de cuatrocientos veinte mil trescientos siete de."
+    },
+    {
+      "speaker": 0,
+      "start": 41.983654,
+      "end": 45.29044,
+      "transcript": "El motivo de la moros donde se debe cesa,"
+    },
+    {
+      "speaker": 0,
+      "start": 45.82789,
+      "end": 46.32789,
+      "transcript": "endeudamiento,"
+    },
+    {
+      "speaker": 0,
+      "start": 47.30426,
+      "end": 50.137302,
+      "transcript": "incertidumbre económica, baja renta o licencia médica?"
+    },
+    {
+      "speaker": 0,
+      "start": 53.187485,
+      "end": 54.366673,
+      "transcript": "Tener problemas de"
+    },
+    {
+      "speaker": 0,
+      "start": 54.785572,
+      "end": 55.605186,
+      "transcript": "Bajar rentas,"
+    },
+    {
+      "speaker": 0,
+      "start": 56.303753,
+      "end": 57.981743,
+      "transcript": "licencia médica, durante fecha seis meses."
+    },
+    {
+      "speaker": 0,
+      "start": 58.50112,
+      "end": 59.260212,
+      "transcript": "Ah, correcto."
+    },
+    {
+      "speaker": 0,
+      "start": 60.914993,
+      "end": 61.554993,
+      "transcript": "Tuve problema."
+    },
+    {
+      "speaker": 0,
+      "start": 62.714993,
+      "end": 64.41499,
+      "transcript": "De acuerdo. Mire lo que"
+    },
+    {
+      "speaker": 0,
+      "start": 64.91499,
+      "end": 65.15499,
+      "transcript": "claro."
+    },
+    {
+      "speaker": 0,
+      "start": 65.87499,
+      "end": 68.37499,
+      "transcript": "Bien, imagino así no bueno, estos años han sido súper"
+    },
+    {
+      "speaker": 0,
+      "start": 69.48809,
+      "end": 69.98809,
+      "transcript": "Complicado."
+    },
+    {
+      "speaker": 0,
+      "start": 71.840836,
+      "end": 73.57703,
+      "transcript": "Mire, lo que le está ofreciendo,"
+    },
+    {
+      "speaker": 0,
+      "start": 75.190506,
+      "end": 81.235,
+      "transcript": "el banco es poder dar el diez por ciento de la deuda y lo otro no, dejando hasta cuarenta y ocho cuotas."
+    },
+    {
+      "speaker": 0,
+      "start": 82.155,
+      "end": 84.375,
+      "transcript": "Usted podría tocar esa? Usted me"
+    },
+    {
+      "speaker": 0,
+      "start": 85.595,
+      "end": 85.875,
+      "transcript": "daniel?"
+    },
+    {
+      "speaker": 0,
+      "start": 86.755,
+      "end": 87.475,
+      "transcript": "En este momento no."
+    },
+    {
+      "speaker": 0,
+      "start": 88.40836,
+      "end": 90.98286,
+      "transcript": "Ya. Ir abonando aunque sea así"
+    },
+    {
+      "speaker": 0,
+      "start": 91.99884,
+      "end": 94.41376,
+      "transcript": "a su, dar un abono o más o menos"
+    },
+    {
+      "speaker": 0,
+      "start": 95.68423,
+      "end": 98.05994,
+      "transcript": "para que quede el movimiento entonces se está regular."
+    },
+    {
+      "speaker": 0,
+      "start": 99.635185,
+      "end": 101.89117,
+      "transcript": "Sí, pero por el menos tendría que"
+    },
+    {
+      "speaker": 0,
+      "start": 102.388885,
+      "end": 103.48751,
+      "transcript": "no me llegue que me haya"
+    },
+    {
+      "speaker": 0,
+      "start": 104.52,
+      "end": 106.56,
+      "transcript": "ordenando una cosa. Muy bien."
+    },
+    {
+      "speaker": 0,
+      "start": 107.36,
+      "end": 110.5,
+      "transcript": "Recuerde, que entran las deuda que pendiente que las llamadas se reitera"
+    },
+    {
+      "speaker": 0,
+      "start": 110.96,
+      "end": 113.54682,
+      "transcript": "para qué duda o consulta, si usted pueda"
+    },
+    {
+      "speaker": 0,
+      "start": 114.00278,
+      "end": 117.76896,
+      "transcript": "tomar una alternativa de pago, nos puede llamar al veintidós"
+    },
+    {
+      "speaker": 0,
+      "start": 118.55898,
+      "end": 119.6173,
+      "transcript": "siete seis tres"
+    },
+    {
+      "speaker": 0,
+      "start": 120.47322,
+      "end": 121.4119,
+      "transcript": "cinco mil"
+    },
+    {
+      "speaker": 0,
+      "start": 122.26782,
+      "end": 124.12374,
+      "transcript": "ya de lunes a viernes de nueve"
+    },
+    {
+      "speaker": 0,
+      "start": 124.5011,
+      "end": 127.13318,
+      "transcript": "a diecinueve horas y el día sábado, de nueve a catorce."
+    },
+    {
+      "speaker": 0,
+      "start": 128.70448,
+      "end": 132.64088,
+      "transcript": "Ya. Ya yo voy a dejar acá los motivos en el cual, pero eso no"
+    },
+    {
+      "speaker": 0,
+      "start": 133.41954,
+      "end": 136.37645,
+      "transcript": "implica de que no se le siga llamando una vez por semana."
+    },
+    {
+      "speaker": 0,
+      "start": 137.17561,
+      "end": 137.3754,
+      "transcript": "Ok."
+    },
+    {
+      "speaker": 0,
+      "start": 138.269,
+      "end": 140.74402,
+      "transcript": "Muchas gracias, que tenga muy buen día. Hasta luego. Hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "BAJA DE RENTA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707e3"
+  },
+  "AudioNombre": "FALCESP_20220908-151228_56934097377_557_175426859-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALCESP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296844786"
+    }
+  },
+  "HoraTranscripcion": "16:40:44",
+  "MT_DNIS": "56934097377",
+  "MT_Destinatario": "Javiera Belmar",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Javiera Belmar",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "MT_Folio": "776",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALCESP_20220908-151228_56934097377_557_175426859-all",
+  "MT_NombreScript": "Acobro_MASIVA",
+  "MT_RutDestinatario": "17236224-9",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "2",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALCESP -CI",
+  "TiempoAudio": 64.79994,
+  "TiempoSilencio": 33.75327700000001,
+  "Agent_spk": -1,
+  "Confidence": 0.9169922,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 16.879332,
+      "end": 21.262997,
+      "transcript": "Aló? Buenas tardes. Se ubicar don Franco Maldonado En este número, disculpe?"
+    },
+    {
+      "speaker": 0,
+      "start": 22.41869,
+      "end": 24.765,
+      "transcript": "Sí, lo que pasa que la se encuentre unas zona"
+    },
+    {
+      "speaker": 0,
+      "start": 25.463484,
+      "end": 27.778463,
+      "transcript": "entonces llamada a mi teléfono por cualquier cobro."
+    },
+    {
+      "speaker": 0,
+      "start": 28.417078,
+      "end": 35.159138,
+      "transcript": "Ah, ya. Podría yo dejarle algún numerito de teléfono con usted, y llamamos de banco Javiera herrera para entregarle el link información importante"
+    },
+    {
+      "speaker": 0,
+      "start": 37.095943,
+      "end": 37.93484,
+      "transcript": "Tendrá dónde anotar?"
+    },
+    {
+      "speaker": 0,
+      "start": 39.4928,
+      "end": 40.71186,
+      "transcript": "Ya. Es el veintidós."
+    },
+    {
+      "speaker": 0,
+      "start": 42.145,
+      "end": 42.645,
+      "transcript": "Veintidós."
+    },
+    {
+      "speaker": 0,
+      "start": 43.265,
+      "end": 44.065,
+      "transcript": "Siete seis tres?"
+    },
+    {
+      "speaker": 0,
+      "start": 45.665,
+      "end": 47.625,
+      "transcript": "Siete seis tres, cinco mil."
+    },
+    {
+      "speaker": 0,
+      "start": 48.625,
+      "end": 49.47771,
+      "transcript": "Cinco Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 50.274555,
+      "end": 51.571396,
+      "transcript": "Usted es familiar del para?"
+    },
+    {
+      "speaker": 0,
+      "start": 52.625237,
+      "end": 52.744766,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 53.94003,
+      "end": 59.258316,
+      "transcript": "Ya. Le informo entonces, puede llamar el de hasta a las siete de la tarde, y el día sábado hasta las dos."
+    },
+    {
+      "speaker": 0,
+      "start": 60.29582,
+      "end": 62.650146,
+      "transcript": "Ya. Muchas gracias. Muchas gracias, hasta hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707ec"
+  },
+  "AudioNombre": "FALFLUSP_20220908-145937_56931963320_485_175437826-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296844392"
+    }
+  },
+  "HoraTranscripcion": "16:40:44",
+  "MT_DNIS": "56931963320",
+  "MT_Destinatario": "Denis Rivas",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Denis Rivas",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "MT_Folio": "750",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220908-145937_56931963320_485_175437826-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "18712248-1",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 90.431946,
+  "TiempoSilencio": 36.207218000000005,
+  "Agent_spk": -1,
+  "Confidence": 0.9604492,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 15.585,
+      "end": 15.825001,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 17.399628,
+      "end": 17.998966,
+      "transcript": "Buenas tardes."
+    },
+    {
+      "speaker": 0,
+      "start": 18.838041,
+      "end": 21.176014,
+      "transcript": "Por favor, con la señora Martha Soto?"
+    },
+    {
+      "speaker": 0,
+      "start": 21.91465,
+      "end": 22.39412,
+      "transcript": "Con ella."
+    },
+    {
+      "speaker": 0,
+      "start": 23.353064,
+      "end": 29.985,
+      "transcript": "Buenas tardes, señora Marta. Mi nombre es Rivas, le llamo de la empresa al cobro, este es por encargo de banco"
+    },
+    {
+      "speaker": 0,
+      "start": 30.365,
+      "end": 31.805,
+      "transcript": "por su tarjeta Cm r."
+    },
+    {
+      "speaker": 0,
+      "start": 32.445,
+      "end": 35.545,
+      "transcript": "Para su seguridad, la llamada podría estar siendo grabada"
+    },
+    {
+      "speaker": 0,
+      "start": 36.059998,
+      "end": 40.46,
+      "transcript": "es una deuda que tiene desde marzo de este año de trescientos veinte mil novecientos pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 41.14,
+      "end": 47.13038,
+      "transcript": "Queremos darle lo que unas opciones de pago y conocer el motivo por el que no había podido iba hacerlo, que estuvo"
+    },
+    {
+      "speaker": 0,
+      "start": 47.70654,
+      "end": 50.775593,
+      "transcript": "baja ingreso, con licencia no? No, nada más está bien."
+    },
+    {
+      "speaker": 0,
+      "start": 52.529335,
+      "end": 52.848198,
+      "transcript": "Entiendo."
+    },
+    {
+      "speaker": 0,
+      "start": 53.406208,
+      "end": 60.65052,
+      "transcript": "Bueno, Actualmente le estamos ofreciendo poder cancelar solo el monto del capital de su deuda, que son los trescientos veinte mil novecientos pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 61.344673,
+      "end": 63.922413,
+      "transcript": "Solo lo puede hacer el día web con una transferencia"
+    },
+    {
+      "speaker": 0,
+      "start": 64.30145,
+      "end": 73.02012,
+      "transcript": "o de forma presencial. Que diría que la posibilidad de hacer el pago del deuda total esta misma semana, alta. Número total de veintiún mil personas."
+    },
+    {
+      "speaker": 0,
+      "start": 73.77742,
+      "end": 76.20874,
+      "transcript": "Ok. Y so hablamos del cincuenta por ciento del la deuda?"
+    },
+    {
+      "speaker": 0,
+      "start": 76.96604,
+      "end": 78.32121,
+      "transcript": "Ciento cincuenta, Tampoco."
+    },
+    {
+      "speaker": 0,
+      "start": 79.05371,
+      "end": 81.16652,
+      "transcript": "Cuánto es lo máximo que usted podría pagar esta semana?"
+    },
+    {
+      "speaker": 0,
+      "start": 84.55498,
+      "end": 85.23267,
+      "transcript": "Esta semana."
+    },
+    {
+      "speaker": 0,
+      "start": 86.428604,
+      "end": 86.928604,
+      "transcript": "Ajá"
+    }
+  ],
+  "MotivoMoraCX": "LICENCIA MEDICA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707f1"
+  },
+  "AudioNombre": "FALFLUSP_20220912-110319_56986599813_378_175464333-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296856329"
+    }
+  },
+  "HoraTranscripcion": "16:40:56",
+  "MT_DNIS": "56986599813",
+  "MT_Destinatario": "Rosa Lagos",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Rosa Lagos",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662940800000"
+    }
+  },
+  "MT_Folio": "1451",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220912-110319_56986599813_378_175464333-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "9540050-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 135.79193,
+  "TiempoSilencio": 67.13833000000001,
+  "Agent_spk": -1,
+  "Confidence": 0.9236021,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 15.988549,
+      "end": 16.348148,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 17.1073,
+      "end": 18.766005,
+      "transcript": "Pues bueno, y con la señora"
+    },
+    {
+      "speaker": 0,
+      "start": 19.304844,
+      "end": 19.804844,
+      "transcript": "Irma"
+    },
+    {
+      "speaker": 0,
+      "start": 20.303728,
+      "end": 21.782076,
+      "transcript": "Nino Amparo Soto?"
+    },
+    {
+      "speaker": 0,
+      "start": 22.381407,
+      "end": 23.320915,
+      "transcript": "Sí, con quién"
+    },
+    {
+      "speaker": 0,
+      "start": 23.914398,
+      "end": 28.325325,
+      "transcript": "habla con Rosa Lago de Ac, por encargo de Banco Fa de su tarjeta Cm."
+    },
+    {
+      "speaker": 0,
+      "start": 29.022547,
+      "end": 32.135323,
+      "transcript": "Ya. Le informo que esta conversación está siendo grabada para su seguridad."
+    },
+    {
+      "speaker": 0,
+      "start": 32.79,
+      "end": 37.510002,
+      "transcript": "Y el motivo fue un saldo pendiente que tiene setenta y ocho mil setecientos cuarenta y dos pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 38.03,
+      "end": 41.301155,
+      "transcript": "Muy ya. El motivo de la moros agencia cesa,"
+    },
+    {
+      "speaker": 0,
+      "start": 41.877087,
+      "end": 42.65603,
+      "transcript": "sobre endeudamiento,"
+    },
+    {
+      "speaker": 0,
+      "start": 43.391357,
+      "end": 46.89809,
+      "transcript": "licencia médicas, incertidumbre económica o baja renta?"
+    },
+    {
+      "speaker": 0,
+      "start": 47.78987,
+      "end": 48.28987,
+      "transcript": "Garantía"
+    },
+    {
+      "speaker": 0,
+      "start": 49.10705,
+      "end": 49.34654,
+      "transcript": "ya."
+    },
+    {
+      "speaker": 0,
+      "start": 50.384315,
+      "end": 52.041836,
+      "transcript": "Acá el momento se encuentra bastante?"
+    },
+    {
+      "speaker": 0,
+      "start": 52.739273,
+      "end": 55.5144,
+      "transcript": "Sí. Sí, ya. De alguna posibilidad,"
+    },
+    {
+      "speaker": 0,
+      "start": 56.25175,
+      "end": 56.911407,
+      "transcript": "el señora"
+    },
+    {
+      "speaker": 0,
+      "start": 57.225,
+      "end": 59.024998,
+      "transcript": "irma de cancelar en dos cuotas."
+    },
+    {
+      "speaker": 0,
+      "start": 61.905,
+      "end": 63.645,
+      "transcript": "Para que si nos la saque"
+    },
+    {
+      "speaker": 0,
+      "start": 64.32,
+      "end": 64.6,
+      "transcript": "sistema."
+    },
+    {
+      "speaker": 0,
+      "start": 65.76,
+      "end": 65.88,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 66.799995,
+      "end": 68.58,
+      "transcript": "Claro el veinte adelante,"
+    },
+    {
+      "speaker": 0,
+      "start": 69.119995,
+      "end": 70.479996,
+      "transcript": "ya estaré como al día."
+    },
+    {
+      "speaker": 0,
+      "start": 71.61455,
+      "end": 79.20545,
+      "transcript": "Ya. El veinte estaría pagando la mitad, el total de los setenta y ocho el veinte no sea veintiuno, puede se vencido ya esta semana."
+    },
+    {
+      "speaker": 0,
+      "start": 80.41751,
+      "end": 80.91751,
+      "transcript": "Ya"
+    },
+    {
+      "speaker": 0,
+      "start": 81.49423,
+      "end": 83.4084,
+      "transcript": "ahí ahí voy ya me voy a hacer a..."
+    },
+    {
+      "speaker": 0,
+      "start": 85.36245,
+      "end": 85.88087,
+      "transcript": "Ya. Mire,"
+    },
+    {
+      "speaker": 0,
+      "start": 86.55881,
+      "end": 87.6171,
+      "transcript": "usted tiene que"
+    },
+    {
+      "speaker": 0,
+      "start": 88.87176,
+      "end": 89.37176,
+      "transcript": "cancelar"
+    },
+    {
+      "speaker": 0,
+      "start": 90.685,
+      "end": 91.865,
+      "transcript": "ya través de"
+    },
+    {
+      "speaker": 0,
+      "start": 92.685,
+      "end": 93.505,
+      "transcript": "pago rápido,"
+    },
+    {
+      "speaker": 0,
+      "start": 94.604996,
+      "end": 96.765,
+      "transcript": "punto Banco Falabella punto c l,"
+    },
+    {
+      "speaker": 0,
+      "start": 97.7,
+      "end": 100.659996,
+      "transcript": "empieza con y los cuatro dígitos. Ok, muchas señora gracias"
+    },
+    {
+      "speaker": 0,
+      "start": 101.46,
+      "end": 104.439995,
+      "transcript": "Ok. Cualquier duda o consulta, nos llama al veintidós"
+    },
+    {
+      "speaker": 0,
+      "start": 105.47457,
+      "end": 111.7057,
+      "transcript": "siete seis tres cinco mil de lunes a viernes, de nueve a siete de la tarde y el día sábado de nueve a catorce."
+    },
+    {
+      "speaker": 0,
+      "start": 112.39945,
+      "end": 113.67561,
+      "transcript": "Ok. Muchas gracias."
+    },
+    {
+      "speaker": 0,
+      "start": 114.03453,
+      "end": 115.35057,
+      "transcript": "Estamos muy buen día. Hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "BAJA DE RENTA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707f5"
+  },
+  "AudioNombre": "FALFLUSP_20220914-170512_56949058664_421_175641411-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296872305"
+    }
+  },
+  "HoraTranscripcion": "16:41:12",
+  "MT_DNIS": "56949058664",
+  "MT_Destinatario": "Didier Lucero",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Didier Lucero",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "MT_Folio": "2427",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALFLUSP_20220914-170512_56949058664_421_175641411-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "5950922-5",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "2",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALFLUSP -CI",
+  "TiempoAudio": 75.38394,
+  "TiempoSilencio": 63.020534999999974,
+  "Agent_spk": -1,
+  "Confidence": 0.9301758,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 49.345,
+      "end": 49.665,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 50.505,
+      "end": 51.225002,
+      "transcript": "Aló, buenas tardes."
+    },
+    {
+      "speaker": 0,
+      "start": 51.919556,
+      "end": 52.35815,
+      "transcript": "Buenas tardes."
+    },
+    {
+      "speaker": 0,
+      "start": 52.916363,
+      "end": 54.453045,
+      "transcript": "Este número ubicar la señora María"
+    },
+    {
+      "speaker": 0,
+      "start": 54.90998,
+      "end": 55.707428,
+      "transcript": "Gu Campos?"
+    },
+    {
+      "speaker": 0,
+      "start": 56.624493,
+      "end": 57.78079,
+      "transcript": "Sí, ella no se encuentra."
+    },
+    {
+      "speaker": 0,
+      "start": 58.378876,
+      "end": 59.97377,
+      "transcript": "No sé cuánto teléfono le hacer el recado?"
+    },
+    {
+      "speaker": 0,
+      "start": 60.731342,
+      "end": 60.89083,
+      "transcript": "Sí,"
+    },
+    {
+      "speaker": 0,
+      "start": 61.985,
+      "end": 65.985,
+      "transcript": "Puede buscar con fa duda, que tengo una información importante y entregarle, por favor."
+    },
+    {
+      "speaker": 0,
+      "start": 66.625,
+      "end": 66.785,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 67.625,
+      "end": 69.105,
+      "transcript": "Ya, muchas gracias, hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f707f7"
+  },
+  "AudioNombre": "FALRESP_20220910-122925_56933734321_557_175460086-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALRESP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296854187"
+    }
+  },
+  "HoraTranscripcion": "16:40:54",
+  "MT_DNIS": "56933734321",
+  "MT_Destinatario": "Javiera Belmar",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Javiera Belmar",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662768000000"
+    }
+  },
+  "MT_Folio": "1350",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALRESP_20220910-122925_56933734321_557_175460086-all",
+  "MT_NombreScript": "Acobro_BANCO REQUESICIONES",
+  "MT_RutDestinatario": "9996484-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "969",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALRESP -CD",
+  "TiempoAudio": 350.20798,
+  "TiempoSilencio": 170.56291100000013,
+  "Agent_spk": -1,
+  "Confidence": 0.90283203,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 34.149998,
+      "end": 34.51,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 36.03,
+      "end": 38.309998,
+      "transcript": "Buenas tardes. Con Don Wilson Muro Cepeda?"
+    },
+    {
+      "speaker": 0,
+      "start": 40.244503,
+      "end": 40.523872,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 41.64135,
+      "end": 45.8718,
+      "transcript": "Anda usted con javier del Mar, yo estoy llamando de cobro por cargo de Banco Fa,"
+    },
+    {
+      "speaker": 0,
+      "start": 46.59018,
+      "end": 52.875557,
+      "transcript": "es por un saldo pendiente que registra la fecha, dos millones trescientos veintisiete mil ciento sesenta y cuatro pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 53.474884,
+      "end": 56.671314,
+      "transcript": "Tendrá usted alguna posibilidad de comenzar a regularizar en este mes?"
+    },
+    {
+      "speaker": 0,
+      "start": 59.765,
+      "end": 62.504997,
+      "transcript": "Diga, pasa que a mí me despidieron de tu trabajo"
+    },
+    {
+      "speaker": 0,
+      "start": 63.004997,
+      "end": 63.945,
+      "transcript": "y estoy colgado"
+    },
+    {
+      "speaker": 0,
+      "start": 64.485,
+      "end": 66.159065,
+      "transcript": "estoy con fecha en el"
+    },
+    {
+      "speaker": 0,
+      "start": 67.05739,
+      "end": 68.795906,
+      "transcript": "el el esfuerzo se llama el."
+    },
+    {
+      "speaker": 0,
+      "start": 70.09375,
+      "end": 75.34499,
+      "transcript": "Entonces, ya tengo esta semana, tengo diez, cuarenta el por la demanda y que yo."
+    },
+    {
+      "speaker": 0,
+      "start": 76.545,
+      "end": 76.66499,
+      "transcript": "Ya,"
+    },
+    {
+      "speaker": 0,
+      "start": 77.62499,
+      "end": 81.458534,
+      "transcript": "estoy diciendo eso para para regularizar, así claro estoy"
+    },
+    {
+      "speaker": 0,
+      "start": 81.916534,
+      "end": 83.13503,
+      "transcript": "debo eso, entonces,"
+    },
+    {
+      "speaker": 0,
+      "start": 84.03212,
+      "end": 89.854996,
+      "transcript": "voy a tener que si me llega eso, voy a pagar la deuda estilo, será la, si no, voy a tener que regular"
+    },
+    {
+      "speaker": 0,
+      "start": 90.99243,
+      "end": 91.7718,
+      "transcript": "este mes"
+    },
+    {
+      "speaker": 0,
+      "start": 92.62873,
+      "end": 94.16639,
+      "transcript": "para voy pagar la"
+    },
+    {
+      "speaker": 0,
+      "start": 95.382515,
+      "end": 95.882515,
+      "transcript": "que"
+    },
+    {
+      "speaker": 0,
+      "start": 96.300446,
+      "end": 96.5399,
+      "transcript": "cobro."
+    },
+    {
+      "speaker": 0,
+      "start": 97.817024,
+      "end": 100.48712,
+      "transcript": "Ya, sí. En caso de yo poder liquidar"
+    },
+    {
+      "speaker": 0,
+      "start": 102.541275,
+      "end": 109.58271,
+      "transcript": "para acceder a algún descuento y en el caso si no puedo don Wilson, puede acceder un plan de pago en el mundo va a ir pagando usted cuotas."
+    },
+    {
+      "speaker": 0,
+      "start": 110.50171,
+      "end": 110.901276,
+      "transcript": "Correcto."
+    },
+    {
+      "speaker": 0,
+      "start": 111.38075,
+      "end": 112.320274,
+      "transcript": "Pero mí me"
+    },
+    {
+      "speaker": 0,
+      "start": 112.779236,
+      "end": 114.03841,
+      "transcript": "este mi"
+    },
+    {
+      "speaker": 0,
+      "start": 115.056755,
+      "end": 116.53514,
+      "transcript": "si me acerque, sube mucho No?"
+    },
+    {
+      "speaker": 0,
+      "start": 118.14527,
+      "end": 120.479324,
+      "transcript": "No, lo que pasa es que en esta área de banco"
+    },
+    {
+      "speaker": 0,
+      "start": 120.9761,
+      "end": 122.610794,
+      "transcript": "su cuenta ya no está generando interés,"
+    },
+    {
+      "speaker": 0,
+      "start": 123.248726,
+      "end": 133.91106,
+      "transcript": "por lo tanto, el plan de pago se realiza solamente realizando un pie de doscientos mil pesos y el saldo restante usted lo puede dividir hasta cuarenta y ocho cuotas. Las cuotas son fijos también?"
+    },
+    {
+      "speaker": 0,
+      "start": 135.46637,
+      "end": 135.66577,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 138.07333,
+      "end": 142.28175,
+      "transcript": "Ya. Siempre. Usted vamos a anotar número de teléfono para que usted se contacte"
+    },
+    {
+      "speaker": 0,
+      "start": 143.13751,
+      "end": 144.97179,
+      "transcript": "y pueda tomar alguna alternativa de pago?"
+    },
+    {
+      "speaker": 0,
+      "start": 146.66232,
+      "end": 148.23972,
+      "transcript": "Sí, tengo acá la mano."
+    },
+    {
+      "speaker": 0,
+      "start": 151.25122,
+      "end": 153.22765,
+      "transcript": "Mire, el numerito es el veintidós."
+    },
+    {
+      "speaker": 0,
+      "start": 156.73128,
+      "end": 157.64851,
+      "transcript": "Siete seis tres."
+    },
+    {
+      "speaker": 0,
+      "start": 159.72227,
+      "end": 160.22227,
+      "transcript": "Siete"
+    },
+    {
+      "speaker": 0,
+      "start": 160.83893,
+      "end": 161.39725,
+      "transcript": "seis tres."
+    },
+    {
+      "speaker": 0,
+      "start": 162.83292,
+      "end": 163.47101,
+      "transcript": "Cinco mil."
+    },
+    {
+      "speaker": 0,
+      "start": 166.8336,
+      "end": 168.34787,
+      "transcript": "Sí, mi nombre es Javier Guzmán."
+    },
+    {
+      "speaker": 0,
+      "start": 169.2644,
+      "end": 175.37654,
+      "transcript": "Usted me puede contactar de nueve de la mañana a hasta las siete de la tarde y los días sábados hasta las dos de la tarde."
+    },
+    {
+      "speaker": 0,
+      "start": 176.09387,
+      "end": 176.29314,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 177.52853,
+      "end": 178.22778,
+      "transcript": "Y pregunta"
+    },
+    {
+      "speaker": 0,
+      "start": 178.88348,
+      "end": 179.83499,
+      "transcript": "tipo de total"
+    },
+    {
+      "speaker": 0,
+      "start": 182.5268,
+      "end": 189.14664,
+      "transcript": "sí, es el total, solamente se le están cobrando el saldo capital, yo lo llamo de la empresa cobro, y nosotros tenemos otro descuentos."
+    },
+    {
+      "speaker": 0,
+      "start": 190.4,
+      "end": 190.8,
+      "transcript": "Ah, ya."
+    },
+    {
+      "speaker": 0,
+      "start": 191.95999,
+      "end": 195.16,
+      "transcript": "Ya, Es el saldo sin gastos de cobranza e intereses."
+    },
+    {
+      "speaker": 0,
+      "start": 196.08,
+      "end": 200.11499,
+      "transcript": "Ya, ok. Sin me interesa más, porque, como quiero ya con deuda."
+    },
+    {
+      "speaker": 0,
+      "start": 200.575,
+      "end": 205.25499,
+      "transcript": "Ya? Claro, usted usted su proceso judicial está viendo su finiquito, Verdad?"
+    },
+    {
+      "speaker": 0,
+      "start": 205.9496,
+      "end": 210.52065,
+      "transcript": "Correcto, porque que me deben la copia y me la llegaron anticipada."
+    },
+    {
+      "speaker": 0,
+      "start": 210.93863,
+      "end": 214.6316,
+      "transcript": "Entonces, tengo un tema también con la que tuve hablar con la"
+    },
+    {
+      "speaker": 0,
+      "start": 215.18404,
+      "end": 216.14098,
+      "transcript": "por la caja lo antes,"
+    },
+    {
+      "speaker": 0,
+      "start": 216.69919,
+      "end": 217.43842,
+      "transcript": "porque también"
+    },
+    {
+      "speaker": 0,
+      "start": 218.53331,
+      "end": 219.51178,
+      "transcript": "también yo tenía"
+    },
+    {
+      "speaker": 0,
+      "start": 221.80284,
+      "end": 222.6617,
+      "transcript": "Cómo se llama"
+    },
+    {
+      "speaker": 0,
+      "start": 224.93,
+      "end": 226.02998,
+      "transcript": "y y tenía"
+    },
+    {
+      "speaker": 0,
+      "start": 228.29,
+      "end": 229.10999,
+      "transcript": "Cómo se llama"
+    },
+    {
+      "speaker": 0,
+      "start": 231.24998,
+      "end": 231.74998,
+      "transcript": "tienen"
+    },
+    {
+      "speaker": 0,
+      "start": 232.04999,
+      "end": 233.23,
+      "transcript": "una foto todo"
+    },
+    {
+      "speaker": 0,
+      "start": 234.42198,
+      "end": 234.70113,
+      "transcript": "también?"
+    },
+    {
+      "speaker": 0,
+      "start": 235.81767,
+      "end": 236.67657,
+      "transcript": "Una indemnización?"
+    },
+    {
+      "speaker": 0,
+      "start": 238.32993,
+      "end": 241.10292,
+      "transcript": "No cuando uno tiene crédito y de repente te dice,"
+    },
+    {
+      "speaker": 0,
+      "start": 247.67648,
+      "end": 248.17648,
+      "transcript": "ya"
+    },
+    {
+      "speaker": 0,
+      "start": 250.26869,
+      "end": 251.00797,
+      "transcript": "a me,"
+    },
+    {
+      "speaker": 0,
+      "start": 261.27744,
+      "end": 261.47687,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 262.51404,
+      "end": 263.91022,
+      "transcript": "no te preocupe, lo voy a ver."
+    },
+    {
+      "speaker": 0,
+      "start": 264.98727,
+      "end": 265.1867,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 265.86487,
+      "end": 274.607,
+      "transcript": "Mire, yo voy a dejar informada la situación en el sistema ahora, como el tiempo cosita, usted se puede volver a comunicar al número para que nosotros podemos podamos orientar el pago."
+    },
+    {
+      "speaker": 0,
+      "start": 283.95343,
+      "end": 284.6927,
+      "transcript": "Día veinticuatro"
+    },
+    {
+      "speaker": 0,
+      "start": 285.24478,
+      "end": 285.74478,
+      "transcript": "pero"
+    },
+    {
+      "speaker": 0,
+      "start": 286.1635,
+      "end": 287.82187,
+      "transcript": "cómo va a ser el tema y"
+    },
+    {
+      "speaker": 0,
+      "start": 288.3604,
+      "end": 288.8604,
+      "transcript": "pagando"
+    },
+    {
+      "speaker": 0,
+      "start": 289.5987,
+      "end": 291.25708,
+      "transcript": "lo menos cuotas posible y"
+    },
+    {
+      "speaker": 0,
+      "start": 291.9554,
+      "end": 293.53,
+      "transcript": "qué tengo que antes."
+    },
+    {
+      "speaker": 0,
+      "start": 294.61,
+      "end": 300.66998,
+      "transcript": "Ya lo se preocupes. Cualquier cosita lo vea santos entonces. Sí. Y a le de eso tampoco no me"
+    },
+    {
+      "speaker": 0,
+      "start": 315.91263,
+      "end": 316.41263,
+      "transcript": "ya"
+    },
+    {
+      "speaker": 0,
+      "start": 318.24448,
+      "end": 321.00125,
+      "transcript": "Ya don cualquier cosita o usted tenga?"
+    },
+    {
+      "speaker": 0,
+      "start": 321.76038,
+      "end": 321.96014,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 323.1987,
+      "end": 326.23517,
+      "transcript": "Usted puede comunicarse, lo que pasa es que se se acerca a banco,"
+    },
+    {
+      "speaker": 0,
+      "start": 326.64893,
+      "end": 329.7778,
+      "transcript": "en paco va a ser el cobro total de la moros sin descuento."
+    },
+    {
+      "speaker": 0,
+      "start": 330.59222,
+      "end": 336.99136,
+      "transcript": "Por eso mismo importante que yo se pueda comunicar con nosotros para nosotros poder orientar su pago y entregarle la alternativa que más usted le acomode."
+    },
+    {
+      "speaker": 0,
+      "start": 337.79053,
+      "end": 339.46878,
+      "transcript": "Ya, muy bien, ya. Ya?"
+    },
+    {
+      "speaker": 0,
+      "start": 340.3079,
+      "end": 343.06003,
+      "transcript": "muchas gracias. Y igual la voy a llamar no"
+    },
+    {
+      "speaker": 0,
+      "start": 344.19684,
+      "end": 346.27103,
+      "transcript": "Ya don Wilson. Muchas gracias y vaya."
+    },
+    {
+      "speaker": 0,
+      "start": 347.1486,
+      "end": 348.22556,
+      "transcript": "Ya gracias hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70801"
+  },
+  "AudioNombre": "FALFLUSP_20220912-133241_56973006187_501_175465392-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296858470"
+    }
+  },
+  "HoraTranscripcion": "16:40:58",
+  "MT_DNIS": "56973006187",
+  "MT_Destinatario": "Ximena lepin",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Ximena lepin",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662940800000"
+    }
+  },
+  "MT_Folio": "1586",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220912-133241_56973006187_501_175465392-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "18037478-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 103.39193,
+  "TiempoSilencio": 35.804045500000015,
+  "Agent_spk": -1,
+  "Confidence": 0.9189453,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 9.715,
+      "end": 9.995001,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 11.3550005,
+      "end": 13.895,
+      "transcript": "Buenas tardes. Hablo con la señora Tamara Ramírez Valdivia."
+    },
+    {
+      "speaker": 0,
+      "start": 14.315001,
+      "end": 14.795,
+      "transcript": "Con ella."
+    },
+    {
+      "speaker": 0,
+      "start": 15.955,
+      "end": 20.09,
+      "transcript": "Buenas tardes señora Tamara. Mire, para atención esta conversación podría llegar."
+    },
+    {
+      "speaker": 0,
+      "start": 20.730001,
+      "end": 25.710001,
+      "transcript": "Usted hablar con jimena de Cindy, yo estoy llamando a la cobro, para el cargo de Banco Fa, por g,"
+    },
+    {
+      "speaker": 0,
+      "start": 26.543888,
+      "end": 35.115723,
+      "transcript": "una deuda que figura pendiente del mes de febrero del dos mil veintidós, por un monto de dos millones trescientos ochenta y cinco mil ciento setenta y siete pesos,"
+    },
+    {
+      "speaker": 0,
+      "start": 35.890003,
+      "end": 38.410004,
+      "transcript": "Mira, te el motivo del no de esta deuda?"
+    },
+    {
+      "speaker": 0,
+      "start": 40.210003,
+      "end": 42.190002,
+      "transcript": "Y estuve con un problema del trabajo,"
+    },
+    {
+      "speaker": 0,
+      "start": 43.225002,
+      "end": 44.325,
+      "transcript": "Yo hecho estoy"
+    },
+    {
+      "speaker": 0,
+      "start": 44.945,
+      "end": 46.765,
+      "transcript": "todavía con un quince pendiente."
+    },
+    {
+      "speaker": 0,
+      "start": 48.385002,
+      "end": 49.165,
+      "transcript": "Por un momentito."
+    },
+    {
+      "speaker": 0,
+      "start": 50.15967,
+      "end": 52.93716,
+      "transcript": "Por eso si me habías llamado anteriormente y llegarían le el."
+    },
+    {
+      "speaker": 0,
+      "start": 53.715748,
+      "end": 57.711346,
+      "transcript": "Ajá. Que tenía este problema en lepin fin y todavía no lo puedo solucionar."
+    },
+    {
+      "speaker": 0,
+      "start": 59.244614,
+      "end": 60.58353,
+      "transcript": "Por eso le voy a acercarme"
+    },
+    {
+      "speaker": 0,
+      "start": 60.962395,
+      "end": 61.981728,
+      "transcript": "gran día."
+    },
+    {
+      "speaker": 0,
+      "start": 64.23817,
+      "end": 66.47528,
+      "transcript": "Bueno, trate de hacer lo más que posible, señora Tamara."
+    },
+    {
+      "speaker": 0,
+      "start": 67.049995,
+      "end": 69.71,
+      "transcript": "Ya ese esa igual me puede documentar cualquier"
+    },
+    {
+      "speaker": 0,
+      "start": 70.65,
+      "end": 73.13,
+      "transcript": "caso de qué pueda hacerlo, puede ser de tercero?"
+    },
+    {
+      "speaker": 0,
+      "start": 76.89683,
+      "end": 78.713165,
+      "transcript": "Bueno, de todas maneras mientras regular,"
+    },
+    {
+      "speaker": 0,
+      "start": 79.170494,
+      "end": 80.646385,
+      "transcript": "igual usted le va a volver a llamar."
+    },
+    {
+      "speaker": 0,
+      "start": 81.419,
+      "end": 88.97191,
+      "transcript": "Y ante cualquier duda o consulta, usted nos puede devolver el llamado, nuestro número de teléfono es el dos dos siete seis tres cinco mil"
+    },
+    {
+      "speaker": 0,
+      "start": 89.524994,
+      "end": 96.12499,
+      "transcript": "y horario atención de nueve de la mañana a diecinueve horas de lunes a viernes y de nueve de la mañana a catorce horas del día sábado. Ok."
+    },
+    {
+      "speaker": 0,
+      "start": 97.33917,
+      "end": 100.27145,
+      "transcript": "Muchas gracias, señora Cama. Y que tenga muy buena tarde. Igualmente."
+    },
+    {
+      "speaker": 0,
+      "start": 101.52588,
+      "end": 103.04107,
+      "transcript": "Hasta luego. Hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70805"
+  },
+  "AudioNombre": "FALBCSP_20220908-094651_56945475397_484_175429554-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALBCSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296840238"
+    }
+  },
+  "HoraTranscripcion": "16:40:40",
+  "MT_DNIS": "56945475397",
+  "MT_Destinatario": "Nicole Fuentes",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Nicole Fuentes",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "MT_Folio": "483",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALBCSP_20220908-094651_56945475397_484_175429554-all",
+  "MT_NombreScript": "Acobro_BANCO CASTIGO",
+  "MT_RutDestinatario": "12654346-8",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "969",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALBCSP -CD",
+  "TiempoAudio": 150.26395,
+  "TiempoSilencio": 47.187623999999985,
+  "Agent_spk": -1,
+  "Confidence": 0.9121094,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 23.185,
+      "end": 23.465,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 24.384998,
+      "end": 27.005,
+      "transcript": "Buenos días. Gabriela Flor Val"
+    },
+    {
+      "speaker": 0,
+      "start": 27.425,
+      "end": 28.465,
+      "transcript": "Ho, con ella?"
+    },
+    {
+      "speaker": 0,
+      "start": 29.945,
+      "end": 31.544998,
+      "transcript": "Mi nombre es Nicole nicole, qué días."
+    },
+    {
+      "speaker": 0,
+      "start": 32.239998,
+      "end": 34.52,
+      "transcript": "Su seguridad le informo que la llamada está siendo grabada."
+    },
+    {
+      "speaker": 0,
+      "start": 35,
+      "end": 37.36,
+      "transcript": "La llamo de cobro por el saldo de Banco Fa,"
+    },
+    {
+      "speaker": 0,
+      "start": 37.96,
+      "end": 46.837658,
+      "transcript": "por un monto que mantiene un pago de septiembre del año pasado, de una de negociación, señora Flor, de trescientos cuarenta y cinco mil quinientos cincuenta y cinco pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 48.153698,
+      "end": 53.035656,
+      "transcript": "Alguna posibilidad de si pueda regularizar la deuda que mantiene que está cobrando solo el capital,"
+    },
+    {
+      "speaker": 0,
+      "start": 53.59443,
+      "end": 55.989162,
+      "transcript": "Serán de control de interés en y gastos de cobranza."
+    },
+    {
+      "speaker": 0,
+      "start": 56.747498,
+      "end": 56.94706,
+      "transcript": "Claro."
+    },
+    {
+      "speaker": 0,
+      "start": 58.942673,
+      "end": 59.682144,
+      "transcript": "Por el momento."
+    },
+    {
+      "speaker": 0,
+      "start": 60.833508,
+      "end": 63.86666,
+      "transcript": "No, esperanza una respuesta de un trabajo, sí estoy heredia."
+    },
+    {
+      "speaker": 0,
+      "start": 65.82225,
+      "end": 68.81549,
+      "transcript": "Ya. Usted te decir tiene no cuenta con el dinero para pagarlo?"
+    },
+    {
+      "speaker": 0,
+      "start": 69.78725,
+      "end": 77.00037,
+      "transcript": "Exacto. Ya perfecto ayer el dos mil veintiuno Por qué motivo dejó de cancelar? Con el mismo cesa, baja inglés, licencia médica,"
+    },
+    {
+      "speaker": 0,
+      "start": 78.41167,
+      "end": 78.91167,
+      "transcript": "ninguno."
+    },
+    {
+      "speaker": 0,
+      "start": 80.64592,
+      "end": 81.14592,
+      "transcript": "Cuando"
+    },
+    {
+      "speaker": 0,
+      "start": 81.92264,
+      "end": 82.36151,
+      "transcript": "recibieron?"
+    },
+    {
+      "speaker": 0,
+      "start": 83.718025,
+      "end": 84.755356,
+      "transcript": "Sin trabajar. Perfecto."
+    },
+    {
+      "speaker": 0,
+      "start": 85.2488,
+      "end": 93.061325,
+      "transcript": "Bueno, acá, señora Cruz, como le decía anteriormente, se está cobrando solo el capital, ya el día que pueda regularizar por deuda de quinientos mil quinientos veinte pesos. Ya?"
+    },
+    {
+      "speaker": 0,
+      "start": 94.112885,
+      "end": 105.53672,
+      "transcript": "Nosotros como está está externa, tenemos un deuda en este momento, lo cual del mes pasado que ya con cabrón, nos estamos contactando con usted, ya que es el último mes se puede O, por la alternativa que de cancelar solo el capital,"
+    },
+    {
+      "speaker": 0,
+      "start": 106.05609,
+      "end": 118.356186,
+      "transcript": "en el caso de su situación o tenga cómo conseguir el dinero para que pueda liquidar la deuda, puede comunicarse al dos siete seis tres cinco mil, mi nombre es Nico el Fuentes. Ya? Nosotros estamos de lunes a viernes, de nueve a siete,"
+    },
+    {
+      "speaker": 0,
+      "start": 118.929016,
+      "end": 121.43952,
+      "transcript": "de día sábado estamos de nueve a dos de la tarde."
+    },
+    {
+      "speaker": 0,
+      "start": 122.27635,
+      "end": 127.115,
+      "transcript": "Ya para si vea alguna posibilidad de que pueda usted liquidar su deuda, Ya entiendo situación,"
+    },
+    {
+      "speaker": 0,
+      "start": 127.515,
+      "end": 138.3142,
+      "transcript": "pero el motivo que entregan nos quita que la cobranza que sigue efectuando mediante mediante su motivo de no pago. Ya? Tiene le que haber alguna cosita alguna opción de usted para ver para que pueda liquidar deuda que usted mantiene con Banco Fa."
+    },
+    {
+      "speaker": 0,
+      "start": 138.79259,
+      "end": 145.875,
+      "transcript": "Ya? Así que la próxima semana lo más probable es que la vuelvan a comunicar si para que usted le esté informando el ejecutiva correspondiente a su situación."
+    },
+    {
+      "speaker": 0,
+      "start": 146.595,
+      "end": 149.91501,
+      "transcript": "Ok. Listo gracias día. Que tenga buen día. Gracias a usted por su tiempo hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70806"
+  },
+  "AudioNombre": "FALCESP_20220908-162857_56985116517_501_175427816-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALCESP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296845963"
+    }
+  },
+  "HoraTranscripcion": "16:40:45",
+  "MT_DNIS": "56985116517",
+  "MT_Destinatario": "Ximena lepin",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Ximena lepin",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662595200000"
+    }
+  },
+  "MT_Folio": "838",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALCESP_20220908-162857_56985116517_501_175427816-all",
+  "MT_NombreScript": "Acobro_MASIVA",
+  "MT_RutDestinatario": "19637030-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALCESP -CD",
+  "TiempoAudio": 103.82394,
+  "TiempoSilencio": 41.15189599999996,
+  "Agent_spk": -1,
+  "Confidence": 0.9165039,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 14.875,
+      "end": 15.514999,
+      "transcript": "Buenas tardes."
+    },
+    {
+      "speaker": 0,
+      "start": 16.435,
+      "end": 17.075,
+      "transcript": "Buenas tardes."
+    },
+    {
+      "speaker": 0,
+      "start": 18.61,
+      "end": 20.41,
+      "transcript": "Hablo con don Nicolás López Lore?"
+    },
+    {
+      "speaker": 1,
+      "start": 21.29,
+      "end": 21.77,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 23.01,
+      "end": 23.93,
+      "transcript": "Bueno, Señor Nicolás."
+    },
+    {
+      "speaker": 0,
+      "start": 24.41,
+      "end": 27.25,
+      "transcript": "Mire, para momento por atención, esta conversación podría ser grabada."
+    },
+    {
+      "speaker": 0,
+      "start": 27.784037,
+      "end": 32.906807,
+      "transcript": "Usted habla con Jiménez de, yo lo estoy llamando de cobro por encargo de Banco Fa, por su tarjeta Cm."
+    },
+    {
+      "speaker": 0,
+      "start": 33.4828,
+      "end": 40.65,
+      "transcript": "Por una deuda que figura pendiente el mes de septiembre del dos mil veintiuno por un monto de seiscientos setenta y siete mil novecientos noventa y dos pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 41.57,
+      "end": 42.489998,
+      "transcript": "Don Nicolás,"
+    },
+    {
+      "speaker": 0,
+      "start": 43.21,
+      "end": 44.95,
+      "transcript": "el motivo del no pago de esta deuda"
+    },
+    {
+      "speaker": 1,
+      "start": 46.66203,
+      "end": 50.79372,
+      "transcript": "El motivo de no pago de esta deuda es porque tuve cliente, me quedé el cuerpo completo,"
+    },
+    {
+      "speaker": 1,
+      "start": 51.73043,
+      "end": 53.82678,
+      "transcript": "por lo que estuve varios meses internado,"
+    },
+    {
+      "speaker": 1,
+      "start": 54.379704,
+      "end": 54.879704,
+      "transcript": "posteriormente"
+    },
+    {
+      "speaker": 1,
+      "start": 55.218754,
+      "end": 55.718754,
+      "transcript": "tuve"
+    },
+    {
+      "speaker": 1,
+      "start": 56.45735,
+      "end": 60.793007,
+      "transcript": "sí puedo trabajar sea, y ahora que estoy diciendo que estaba cargando un boca ver"
+    },
+    {
+      "speaker": 1,
+      "start": 61.211967,
+      "end": 61.971107,
+      "transcript": "es mi trabajo."
+    },
+    {
+      "speaker": 0,
+      "start": 65.81692,
+      "end": 66.41522,
+      "transcript": "Muy bien. Bueno,"
+    },
+    {
+      "speaker": 0,
+      "start": 67.25285,
+      "end": 69.52641,
+      "transcript": "trate que a regularizar lo antes posible don nicolás?"
+    },
+    {
+      "speaker": 0,
+      "start": 70.2993,
+      "end": 74.72736,
+      "transcript": "Ese pago lo podría hacer directo en tienda o a través de pago rápida de Seis media la."
+    },
+    {
+      "speaker": 0,
+      "start": 75.28586,
+      "end": 76.74328,
+      "transcript": "Ya Lo haga"
+    },
+    {
+      "speaker": 1,
+      "start": 77.854996,
+      "end": 81.275,
+      "transcript": "en una tienda para también poder hablar sobre el pago y la"
+    },
+    {
+      "speaker": 1,
+      "start": 81.655,
+      "end": 86.815,
+      "transcript": "la forma de pago, cualquier cosa y todo, lo tengo que nomás probable que está semana me da la próxima."
+    },
+    {
+      "speaker": 0,
+      "start": 90.86122,
+      "end": 97.458336,
+      "transcript": "Bueno, este, como le digo que lo antes posible, y de todas maneras usted no regular nomás tardar igual nos vamos a llamar don Nicolás."
+    },
+    {
+      "speaker": 0,
+      "start": 98.175705,
+      "end": 101.762535,
+      "transcript": "Todo, ningún problema. Muchas gracias. Que tenga buena tarde. Hasta luego."
+    },
+    {
+      "speaker": 1,
+      "start": 102.36034,
+      "end": 102.91829,
+      "transcript": "Hasta hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7080c"
+  },
+  "AudioNombre": "FALFLUSP_20220914-162723_56933249421_485_175641325-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296872135"
+    }
+  },
+  "HoraTranscripcion": "16:41:12",
+  "MT_DNIS": "56933249421",
+  "MT_Destinatario": "Denis Rivas",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Denis Rivas",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "MT_Folio": "2416",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220914-162723_56933249421_485_175641325-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "10449899-K",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 575.8559,
+  "TiempoSilencio": 218.6878274999999,
+  "Agent_spk": -1,
+  "Confidence": 0.95214844,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 8.6449995,
+      "end": 8.925,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 1,
+      "start": 10.285,
+      "end": 13.625,
+      "transcript": "Buenas tardes. Por favor, con Don Antonio Way"
+    },
+    {
+      "speaker": 1,
+      "start": 14.084999,
+      "end": 15.165,
+      "transcript": "Y y Pizza?"
+    },
+    {
+      "speaker": 0,
+      "start": 15.924999,
+      "end": 16.525,
+      "transcript": "De parte de quién?"
+    },
+    {
+      "speaker": 1,
+      "start": 17.539999,
+      "end": 22.22,
+      "transcript": "Mi nombre es Rivas, y yo le llamo de banco para. Hablamos con algún familiar de don Antonio?"
+    },
+    {
+      "speaker": 1,
+      "start": 23.419998,
+      "end": 23.859999,
+      "transcript": "Con poco?"
+    },
+    {
+      "speaker": 1,
+      "start": 24.793404,
+      "end": 25.35205,
+      "transcript": "Sí, por favor."
+    },
+    {
+      "speaker": 0,
+      "start": 26.070312,
+      "end": 26.269829,
+      "transcript": "Yes."
+    },
+    {
+      "speaker": 1,
+      "start": 31.656786,
+      "end": 31.976013,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 1,
+      "start": 33.387928,
+      "end": 37.04126,
+      "transcript": "Buenas tardes. Por favor, Con Don Antonio Joaquín Pl?"
+    },
+    {
+      "speaker": 1,
+      "start": 38.217716,
+      "end": 38.45721,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 39.29544,
+      "end": 41.4908,
+      "transcript": "Buenas tardes, don Antonio. Mi nombre es Denis,"
+    },
+    {
+      "speaker": 1,
+      "start": 42.144993,
+      "end": 43.984993,
+      "transcript": "yo le llamo de la empresa a cobro,"
+    },
+    {
+      "speaker": 1,
+      "start": 44.464996,
+      "end": 47.624992,
+      "transcript": "este es por encargo de Banco Fa con su tarjeta Cm r."
+    },
+    {
+      "speaker": 1,
+      "start": 48.344994,
+      "end": 54.117153,
+      "transcript": "Para su seguridad llamada podría estar siendo grabada es una deuda que tiene desde marzo de este año,"
+    },
+    {
+      "speaker": 1,
+      "start": 54.836357,
+      "end": 62.023758,
+      "transcript": "Queremos hacer opciones de pago y conocer, don Antonio, la razón por la que no había podido hacerlo hasta ahora. Que usted estuvo que,"
+    },
+    {
+      "speaker": 1,
+      "start": 62.52238,
+      "end": 64.14084,
+      "transcript": "bajo ingreso con su"
+    },
+    {
+      "speaker": 1,
+      "start": 64.67941,
+      "end": 65.17941,
+      "transcript": "licencia."
+    },
+    {
+      "speaker": 1,
+      "start": 66.037544,
+      "end": 67.55546,
+      "transcript": "Se no ha juntado todas las cuentas?"
+    },
+    {
+      "speaker": 1,
+      "start": 69.249985,
+      "end": 70.749985,
+      "transcript": "O sea, tiene el sobre en endeudamiento."
+    },
+    {
+      "speaker": 0,
+      "start": 74.249985,
+      "end": 74.44999,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 1,
+      "start": 76.783066,
+      "end": 77.662155,
+      "transcript": "Me escucha antonio."
+    },
+    {
+      "speaker": 1,
+      "start": 79.540215,
+      "end": 79.62013,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 80.45927,
+      "end": 82.617035,
+      "transcript": "Ok. Usted se encuentra actualmente sobre endeudado?"
+    },
+    {
+      "speaker": 1,
+      "start": 83.695915,
+      "end": 83.85575,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 85.228264,
+      "end": 91.41104,
+      "transcript": "Entiendo. Bueno, yo le voy a dar a usted las opciones que estamos ofreciendo para que usted pueda regularizar esta deuda equipo."
+    },
+    {
+      "speaker": 1,
+      "start": 92.26346,
+      "end": 92.88306,
+      "transcript": "Es que"
+    },
+    {
+      "speaker": 1,
+      "start": 93.30001,
+      "end": 96.05085,
+      "transcript": "dígame, es que yo no entiendo mucho, mi hija can,"
+    },
+    {
+      "speaker": 1,
+      "start": 96.72859,
+      "end": 100.537575,
+      "transcript": "Le puede explicar allá? Lo que podemos hacer es que usted ponga el teléfono"
+    },
+    {
+      "speaker": 1,
+      "start": 100.969986,
+      "end": 101.94999,
+      "transcript": "en manos libres"
+    },
+    {
+      "speaker": 1,
+      "start": 102.289986,
+      "end": 108.30999,
+      "transcript": "y yo siempre me voy dirigido que en todo momento, pero ya pueda escuchar, pero tendría diría usted que primero actualizar"
+    },
+    {
+      "speaker": 1,
+      "start": 108.86409,
+      "end": 111.71701,
+      "transcript": "y poner el teléfono en manos libre, porque como es una información"
+    },
+    {
+      "speaker": 1,
+      "start": 113.250885,
+      "end": 113.750885,
+      "transcript": "que"
+    },
+    {
+      "speaker": 1,
+      "start": 114.16813,
+      "end": 118.456726,
+      "transcript": "bancaria solo se puede entregar directamente al titular que es usted, yo siempre me"
+    },
+    {
+      "speaker": 1,
+      "start": 118.80999,
+      "end": 120.44999,
+      "transcript": "sería a usted don Ant?"
+    },
+    {
+      "speaker": 1,
+      "start": 121.20999,
+      "end": 121.36999,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 122.68999,
+      "end": 126.289986,
+      "transcript": "Ok, entonces pongo el teléfono de altavoz, yo hablaría con usted que ya escuche."
+    },
+    {
+      "speaker": 0,
+      "start": 128.50499,
+      "end": 128.74498,
+      "transcript": "Ok."
+    },
+    {
+      "speaker": 1,
+      "start": 132.38498,
+      "end": 133.50499,
+      "transcript": "Ok, le explico."
+    },
+    {
+      "speaker": 1,
+      "start": 135.5194,
+      "end": 141.39104,
+      "transcript": "El motivo de la llamada, don Antonio, como le había indicado, es por una deuda que usted tiene con su tarjeta Cm r."
+    },
+    {
+      "speaker": 1,
+      "start": 141.99019,
+      "end": 145.165,
+      "transcript": "Este es la tiene desde marzo de este año,"
+    },
+    {
+      "speaker": 1,
+      "start": 145.84499,
+      "end": 150.245,
+      "transcript": "a la fecha, en un de de junio millón ciento cien mil doscientos dieciocho, ok."
+    },
+    {
+      "speaker": 1,
+      "start": 151.05894,
+      "end": 154.25163,
+      "transcript": "Las opciones de pago que estamos of. Sí, en principio,"
+    },
+    {
+      "speaker": 1,
+      "start": 155.20944,
+      "end": 157.10625,
+      "transcript": "es que usted pueda liquidar la deuda completa"
+    },
+    {
+      "speaker": 1,
+      "start": 157.48424,
+      "end": 161.795,
+      "transcript": "y le daríamos un descuento adicional diez por ciento para que usted pueda regularizar"
+    },
+    {
+      "speaker": 1,
+      "start": 162.135,
+      "end": 162.635,
+      "transcript": "la"
+    },
+    {
+      "speaker": 1,
+      "start": 162.97499,
+      "end": 165.355,
+      "transcript": "vía vuestra, transferencia o de forma presencial."
+    },
+    {
+      "speaker": 1,
+      "start": 166.25499,
+      "end": 168.215,
+      "transcript": "La otra alternativa que tiene de don Antonio,"
+    },
+    {
+      "speaker": 1,
+      "start": 168.90854,
+      "end": 173.61049,
+      "transcript": "es documentar esta deuda con cheque que pueden ser sitio o de terceras persona,"
+    },
+    {
+      "speaker": 1,
+      "start": 174.16833,
+      "end": 175.84192,
+      "transcript": "sería un máximo de doce cheques,"
+    },
+    {
+      "speaker": 1,
+      "start": 176.81334,
+      "end": 184.42578,
+      "transcript": "El primero de ellos se pagaría este mes y los otros once o dos meses siguientes. La ventaja de este que le permitiría pagar el forma mensual,"
+    },
+    {
+      "speaker": 1,
+      "start": 184.99928,
+      "end": 186.15685,
+      "transcript": "pero a través del cheque."
+    },
+    {
+      "speaker": 1,
+      "start": 186.8354,
+      "end": 187.75346,
+      "transcript": "Me con Antonio."
+    },
+    {
+      "speaker": 1,
+      "start": 188.55177,
+      "end": 189.46983,
+      "transcript": "Sí, ok."
+    },
+    {
+      "speaker": 1,
+      "start": 190.30806,
+      "end": 193.76181,
+      "transcript": "Y la otra alternativa ese tenemos, para saber que está unidos"
+    },
+    {
+      "speaker": 1,
+      "start": 195.27501,
+      "end": 200.695,
+      "transcript": "no, se lo complique, tiene la opción por lo menos de abonar un cincuenta por ciento del la deuda de este mes"
+    },
+    {
+      "speaker": 1,
+      "start": 200.99501,
+      "end": 205.29001,
+      "transcript": "y en el siguiente resto, para tener deuda regular en ese periodo de quién."
+    },
+    {
+      "speaker": 1,
+      "start": 206.05,
+      "end": 209.05,
+      "transcript": "Puede usted tomar alguna de estas alternativas don Antonio?"
+    },
+    {
+      "speaker": 0,
+      "start": 211.26183,
+      "end": 211.34158,
+      "transcript": "No,"
+    },
+    {
+      "speaker": 0,
+      "start": 212.25882,
+      "end": 215.31114,
+      "transcript": "no, no la alcanza, porque su sueldo veinte son trescientos"
+    },
+    {
+      "speaker": 0,
+      "start": 215.92778,
+      "end": 220.09674,
+      "transcript": "ochenta y los trescientos doscientos tiene que estar pagando la palabra la"
+    },
+    {
+      "speaker": 0,
+      "start": 220.77,
+      "end": 223.07,
+      "transcript": "entonces imposible, que le pueda dar tickets"
+    },
+    {
+      "speaker": 0,
+      "start": 223.49,
+      "end": 227.79001,
+      "transcript": "por cual financiar casi la mitad de la cuenta es imposible sí, el caso"
+    },
+    {
+      "speaker": 0,
+      "start": 228.8241,
+      "end": 230.0431,
+      "transcript": "Sueldo nueve es de cuatrocientos"
+    },
+    {
+      "speaker": 0,
+      "start": 230.4219,
+      "end": 230.9219,
+      "transcript": "cincuenta,"
+    },
+    {
+      "speaker": 0,
+      "start": 231.54036,
+      "end": 233.57756,
+      "transcript": "es de el de tres ochenta."
+    },
+    {
+      "speaker": 1,
+      "start": 235.78923,
+      "end": 237.20709,
+      "transcript": "Don Antonio, Y qué,"
+    },
+    {
+      "speaker": 1,
+      "start": 237.66487,
+      "end": 241.69553,
+      "transcript": "o sea, de hacer un pago durante este mes, Cuánto sería lo máximo que usted podría pagar?"
+    },
+    {
+      "speaker": 0,
+      "start": 242.77303,
+      "end": 243.57117,
+      "transcript": "Los máximo."
+    },
+    {
+      "speaker": 1,
+      "start": 245.02406,
+      "end": 245.8837,
+      "transcript": "Cuando me?"
+    },
+    {
+      "speaker": 1,
+      "start": 247.90115,
+      "end": 251.87766,
+      "transcript": "Claro, lo que lo que sucede es que, como lo, este es un monto capital"
+    },
+    {
+      "speaker": 1,
+      "start": 252.4166,
+      "end": 258.74518,
+      "transcript": "que le están permitiendo pagar vamos en en condiciones, solamente el capital y lo que aparece en la web que es más. Entonces,"
+    },
+    {
+      "speaker": 1,
+      "start": 259.54434,
+      "end": 263.815,
+      "transcript": "además que hasta tanto no regular esta situación, las gestiones de cobranza que van"
+    },
+    {
+      "speaker": 1,
+      "start": 264.4336,
+      "end": 269.84235,
+      "transcript": "traté en la medida de lo posible para mantener el monto capital y decir usted pueda hacer pago"
+    },
+    {
+      "speaker": 1,
+      "start": 270.4199,
+      "end": 272.2956,
+      "transcript": "seguir haciendo pagos o abonos al tu deuda,"
+    },
+    {
+      "speaker": 1,
+      "start": 272.9496,
+      "end": 281.00125,
+      "transcript": "hacer algún pago durante este mes y así sucesivamente, pues usted pueda regularizar o tomar una de las opciones que nosotros le presentamos."
+    },
+    {
+      "speaker": 0,
+      "start": 283.43015,
+      "end": 295.90146,
+      "transcript": "Disculpe, la la opciones que tengo presentó de cuánto es el mínimo que él tiene que dar? En plata, porque si usted me dice no, que tiene que dar el cincuenta por ciento de la deuda. O diez por ciento nosotros no entendemos si."
+    },
+    {
+      "speaker": 1,
+      "start": 297.995,
+      "end": 298.875,
+      "transcript": "Está ahí, don Antonio."
+    },
+    {
+      "speaker": 1,
+      "start": 299.715,
+      "end": 299.875,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 300.555,
+      "end": 301.355,
+      "transcript": "Ok, le explico."
+    },
+    {
+      "speaker": 1,
+      "start": 302.475,
+      "end": 303.835,
+      "transcript": "En su en en su caso,"
+    },
+    {
+      "speaker": 1,
+      "start": 304.515,
+      "end": 305.91,
+      "transcript": "como le indicaba, se se pide"
+    },
+    {
+      "speaker": 1,
+      "start": 306.36838,
+      "end": 314.1805,
+      "transcript": "la las opciones de pagos oficiales sería pago de total, con es un cincuenta por ciento de la deuda, ya hay otra opción que permite hacer abono,"
+    },
+    {
+      "speaker": 1,
+      "start": 314.7936,
+      "end": 318.00546,
+      "transcript": "el abono sería sobre los ciento cincuenta mil pesos, pero y"
+    },
+    {
+      "speaker": 1,
+      "start": 318.8215,
+      "end": 321.2143,
+      "transcript": "por su condición cómo se aplica se le complica,"
+    },
+    {
+      "speaker": 1,
+      "start": 322.05176,
+      "end": 324.2666,
+      "transcript": "entonces, la otra opción que tienes es hacer el pago"
+    },
+    {
+      "speaker": 1,
+      "start": 325.74,
+      "end": 327.21997,
+      "transcript": "realidad sería un monto mayor,"
+    },
+    {
+      "speaker": 1,
+      "start": 327.86,
+      "end": 335.48727,
+      "transcript": "pero si no, se tratar de ir haciendo pago para mantener el monto por lo menos como base o estudiar la posibilidad de una compra de cartera"
+    },
+    {
+      "speaker": 1,
+      "start": 335.98517,
+      "end": 337.3633,
+      "transcript": "que le permita"
+    },
+    {
+      "speaker": 1,
+      "start": 337.74146,
+      "end": 341.77,
+      "transcript": "conseguir el dinero para liquidar, nosotros lo ofrecer el diez por de descuento"
+    },
+    {
+      "speaker": 1,
+      "start": 342.11,
+      "end": 344.87,
+      "transcript": "y usted pagaría solo el capital restante de lo contrario,"
+    },
+    {
+      "speaker": 1,
+      "start": 345.38998,
+      "end": 347.825,
+      "transcript": "ir abonando a su deuda hasta que usted pueda regularizar"
+    },
+    {
+      "speaker": 1,
+      "start": 348.685,
+      "end": 360.44,
+      "transcript": "el monto lo lo ideal es que sea por lo menos sobre los cien mil pesos, y de esta forma ir regular su situación menos tiempo. Sería, digamos, el abono mínimo, pero si con todo y eso usted"
+    },
+    {
+      "speaker": 1,
+      "start": 361.78,
+      "end": 368.82138,
+      "transcript": "se lo complica conseguir los cien mil hacer un pago durante el mes, si son cien mejor, si no, bueno, por lo menos que se le acerque otro."
+    },
+    {
+      "speaker": 0,
+      "start": 371.80972,
+      "end": 375.8,
+      "transcript": "Y es que nosotros mi hija estaba pagando este mes de"
+    },
+    {
+      "speaker": 0,
+      "start": 376.86,
+      "end": 379.87997,
+      "transcript": "septiembre, me hija pagó cien mil pesos, entonces"
+    },
+    {
+      "speaker": 0,
+      "start": 380.27432,
+      "end": 385.99863,
+      "transcript": "todos los meses están dando cien mil pesos, y ahora que te diga que tiene que ser mal tres mil pesos"
+    },
+    {
+      "speaker": 0,
+      "start": 386.41586,
+      "end": 389.64612,
+      "transcript": "no me alcanza. Pagando doscientos ciento cincuenta y sería dar doscientos ciento cincuenta?"
+    },
+    {
+      "speaker": 0,
+      "start": 392.05777,
+      "end": 401.8993,
+      "transcript": "Entiende? Entonces, por estar haciendo todos los meses que le cien mil y pesos la cuenta, y va a decir que uno se refleja, o tengo no que, no va para? Ok. Está está Santo antonio."
+    },
+    {
+      "speaker": 1,
+      "start": 402.5379,
+      "end": 402.7774,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 1,
+      "start": 403.41605,
+      "end": 408.30664,
+      "transcript": "Ok, déjeme verificar un momento cuándo fue el último pago registrado y en cuanto"
+    },
+    {
+      "speaker": 1,
+      "start": 409.13855,
+      "end": 410.41516,
+      "transcript": "la deuda un momento, por favor."
+    },
+    {
+      "speaker": 1,
+      "start": 475.4082,
+      "end": 476.24496,
+      "transcript": "Aló, Don?"
+    },
+    {
+      "speaker": 0,
+      "start": 477.00208,
+      "end": 477.2013,
+      "transcript": "Quién?"
+    },
+    {
+      "speaker": 1,
+      "start": 477.9584,
+      "end": 480.13196,
+      "transcript": "Sí, efectivamente aparece un pago registrado"
+    },
+    {
+      "speaker": 1,
+      "start": 481.0266,
+      "end": 483.4943,
+      "transcript": "el último pago registrado fue el"
+    },
+    {
+      "speaker": 1,
+      "start": 484.27048,
+      "end": 488.39954,
+      "transcript": "el cuatro de agosto, fueron cien mil pesos. Bueno, puede igual"
+    },
+    {
+      "speaker": 1,
+      "start": 489.21558,
+      "end": 492.24646,
+      "transcript": "ahorita en en septiembre hacer un abono similar,"
+    },
+    {
+      "speaker": 1,
+      "start": 493.1785,
+      "end": 497.86398,
+      "transcript": "así es efectivamente, hasta que usted pueda revolucionar eso si se están descontando de los montos porque"
+    },
+    {
+      "speaker": 1,
+      "start": 498.24094,
+      "end": 501.1907,
+      "transcript": "el monto anterior es la mayor, se le descontar los cien un pesos,"
+    },
+    {
+      "speaker": 1,
+      "start": 501.76495,
+      "end": 505.66495,
+      "transcript": "quedaron en millón seis mil doscientos dieciocho. Que se hace que"
+    },
+    {
+      "speaker": 1,
+      "start": 505.96497,
+      "end": 508.22495,
+      "transcript": "abono de cien mil pesos este mes, le quedarían"
+    },
+    {
+      "speaker": 1,
+      "start": 509.29926,
+      "end": 516.85046,
+      "transcript": "un millón y así sucesivamente se reduciendo hasta que esté en cero. Oh hasta que usted pueda pagar más y y liquidarla la deuda don antonia."
+    },
+    {
+      "speaker": 1,
+      "start": 517.50494,
+      "end": 518.605,
+      "transcript": "Sí, y yo creo"
+    },
+    {
+      "speaker": 1,
+      "start": 519.14496,
+      "end": 521.08496,
+      "transcript": "que este otro mes podría ser porque"
+    },
+    {
+      "speaker": 1,
+      "start": 521.545,
+      "end": 522.745,
+      "transcript": "no no tengo plata."
+    },
+    {
+      "speaker": 1,
+      "start": 523.94495,
+      "end": 527.55994,
+      "transcript": "Bueno, de igual manera yo le voy a dar mi número telefónico para cualquier usted tome nota."
+    },
+    {
+      "speaker": 1,
+      "start": 528.31995,
+      "end": 534.57495,
+      "transcript": "Y en caso de que logre conseguir el dinero para hacerlo o tenga alguna duda o consulta, nos pueda llamar. Nota por favor, del número?"
+    },
+    {
+      "speaker": 1,
+      "start": 535.93494,
+      "end": 536.6149,
+      "transcript": "Espérame un segundo."
+    },
+    {
+      "speaker": 0,
+      "start": 543.7479,
+      "end": 544.2479,
+      "transcript": "Veintidós."
+    },
+    {
+      "speaker": 1,
+      "start": 546.98456,
+      "end": 547.1844,
+      "transcript": "No."
+    },
+    {
+      "speaker": 1,
+      "start": 547.9036,
+      "end": 548.7028,
+      "transcript": "Siete seis tres."
+    },
+    {
+      "speaker": 1,
+      "start": 551.0204,
+      "end": 551.18024,
+      "transcript": "Ajá."
+    },
+    {
+      "speaker": 1,
+      "start": 551.9149,
+      "end": 552.43494,
+      "transcript": "Cinco mil."
+    },
+    {
+      "speaker": 1,
+      "start": 557.43494,
+      "end": 558.75494,
+      "transcript": "Mi nombre es Denis Rivas."
+    },
+    {
+      "speaker": 1,
+      "start": 561.3266,
+      "end": 564.541,
+      "transcript": "Y usted me puede llamar de lunes a viernes de nueve a siete"
+    },
+    {
+      "speaker": 1,
+      "start": 565.19867,
+      "end": 566.79535,
+      "transcript": "y sábados hasta las catorce horas."
+    },
+    {
+      "speaker": 1,
+      "start": 568.99084,
+      "end": 569.1904,
+      "transcript": "No."
+    },
+    {
+      "speaker": 1,
+      "start": 569.8437,
+      "end": 570.88043,
+      "transcript": "Tenga, buenas tardes."
+    },
+    {
+      "speaker": 1,
+      "start": 571.9571,
+      "end": 572.2761,
+      "transcript": "Hasta luego."
+    },
+    {
+      "speaker": 0,
+      "start": 573.0736,
+      "end": 573.5521,
+      "transcript": "Gracias."
+    }
+  ],
+  "MotivoMoraCX": "INCERTIDUMBRE ECONOMICA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7080d"
+  },
+  "AudioNombre": "FALBCSP_20220910-113236_56994990461_378_175441661-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALBCSP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296853712"
+    }
+  },
+  "HoraTranscripcion": "16:40:53",
+  "MT_DNIS": "56994990461",
+  "MT_Destinatario": "Rosa Lagos",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Rosa Lagos",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662768000000"
+    }
+  },
+  "MT_Folio": "1320",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALBCSP_20220910-113236_56994990461_378_175441661-all",
+  "MT_NombreScript": "Acobro_BANCO CASTIGO",
+  "MT_RutDestinatario": "7416894-9",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "970",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALBCSP -CI",
+  "TiempoAudio": 92.591934,
+  "TiempoSilencio": 46.93538200000003,
+  "Agent_spk": -1,
+  "Confidence": 0.95380646,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 11.922644,
+      "end": 12.161905,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 13.158833,
+      "end": 15.373545,
+      "transcript": "Muy buenos días. Con el señor Ricardo Navarro"
+    },
+    {
+      "speaker": 0,
+      "start": 15.790717,
+      "end": 16.290718,
+      "transcript": "Vi?"
+    },
+    {
+      "speaker": 0,
+      "start": 17.106659,
+      "end": 17.919159,
+      "transcript": "No, quiere llamada."
+    },
+    {
+      "speaker": 0,
+      "start": 18.636831,
+      "end": 20.90946,
+      "transcript": "Mire usted habla con Rosa al lago de Banco Fa."
+    },
+    {
+      "speaker": 0,
+      "start": 22.105581,
+      "end": 22.765064,
+      "transcript": "Y qué."
+    },
+    {
+      "speaker": 1,
+      "start": 24.218727,
+      "end": 27.383568,
+      "transcript": "Él lo puede ubicar más menos a las dos de la tarde que va a torres."
+    },
+    {
+      "speaker": 0,
+      "start": 27.9817,
+      "end": 32.070496,
+      "transcript": "Ah, correcto. Algún teléfono al cual se le pueda contactar? Este, este mismo"
+    },
+    {
+      "speaker": 1,
+      "start": 32.806637,
+      "end": 34.383278,
+      "transcript": "la página central, y todo"
+    },
+    {
+      "speaker": 0,
+      "start": 35.27892,
+      "end": 43.511234,
+      "transcript": "sube absolutamente nada todo. Ah, de acuerdo. Mire, yo podría dejar un recado con usted un número telefónico para que se contacte con nosotros?"
+    },
+    {
+      "speaker": 0,
+      "start": 50.045002,
+      "end": 50.285,
+      "transcript": "Bueno."
+    },
+    {
+      "speaker": 0,
+      "start": 51.325,
+      "end": 53.52,
+      "transcript": "Mire, el número es el veintidós y dos"
+    },
+    {
+      "speaker": 0,
+      "start": 54.62,
+      "end": 56.18,
+      "transcript": "Ya. Siete seis tres."
+    },
+    {
+      "speaker": 0,
+      "start": 57.02,
+      "end": 57.18,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 59.06,
+      "end": 60.46,
+      "transcript": "Ok. Con quién tiene que hablar allá?"
+    },
+    {
+      "speaker": 0,
+      "start": 61.6317,
+      "end": 65.73934,
+      "transcript": "Bueno, ahí tiene puede ser con, cualquier el ejecutivo de la tienda señor es Rosa Agua."
+    },
+    {
+      "speaker": 1,
+      "start": 66.49706,
+      "end": 66.6167,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 67.33454,
+      "end": 71.979996,
+      "transcript": "Ya de lunes a viernes, de nueve a siete y el día sábado de nueve a catorce horas."
+    },
+    {
+      "speaker": 0,
+      "start": 72.74,
+      "end": 76.46,
+      "transcript": "O para dar la información del Banco Fa. Yo con quién tuve el gusto de hablar?"
+    },
+    {
+      "speaker": 1,
+      "start": 76.979996,
+      "end": 77.46,
+      "transcript": "Por empleado."
+    },
+    {
+      "speaker": 0,
+      "start": 78.391754,
+      "end": 81.65939,
+      "transcript": "Bueno, muy amable. Que tenga buen día. Hasta luego. Bien, adiós."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70812"
+  },
+  "AudioNombre": "FALCESP_20220914-154646_56965216458_501_175467703-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALCESP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296871196"
+    }
+  },
+  "HoraTranscripcion": "16:41:11",
+  "MT_DNIS": "56965216458",
+  "MT_Destinatario": "Ximena lepin",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Ximena lepin",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "MT_Folio": "2370",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALCESP_20220914-154646_56965216458_501_175467703-all",
+  "MT_NombreScript": "Acobro_MASIVA",
+  "MT_RutDestinatario": "14729720-3",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "2",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALCESP -CI",
+  "TiempoAudio": 129.67194,
+  "TiempoSilencio": 91.63226100000001,
+  "Agent_spk": -1,
+  "Confidence": 0.9399414,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 26.437984,
+      "end": 26.677387,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 27.714802,
+      "end": 31.127537,
+      "transcript": "Aló, buenas tardes. Podría la con la señora Ana María Cuba Fernández?"
+    },
+    {
+      "speaker": 0,
+      "start": 32.79882,
+      "end": 34.517044,
+      "transcript": "No se encuentra ahora en este momento."
+    },
+    {
+      "speaker": 0,
+      "start": 35.635887,
+      "end": 36.315186,
+      "transcript": "No se encuentra."
+    },
+    {
+      "speaker": 0,
+      "start": 36.83465,
+      "end": 38.353077,
+      "transcript": "Y qué horario la podría ubicar?"
+    },
+    {
+      "speaker": 0,
+      "start": 39.51188,
+      "end": 41.150185,
+      "transcript": "Yo creo que dentro de una hora más."
+    },
+    {
+      "speaker": 0,
+      "start": 43.565002,
+      "end": 43.885002,
+      "transcript": "Hola."
+    },
+    {
+      "speaker": 0,
+      "start": 44.405003,
+      "end": 47.405003,
+      "transcript": "Habla Señora Lepin, estaré una información importante, Banco Fa."
+    },
+    {
+      "speaker": 0,
+      "start": 48.405003,
+      "end": 52.01727,
+      "transcript": "Pero puedo son los número de teléfono a usted para relación señora Ana de contar con nosotros."
+    },
+    {
+      "speaker": 0,
+      "start": 75.63379,
+      "end": 76.71246,
+      "transcript": "Y el nombre es el doctor??"
+    },
+    {
+      "speaker": 0,
+      "start": 79.46906,
+      "end": 80.288666,
+      "transcript": "Dos dos"
+    },
+    {
+      "speaker": 0,
+      "start": 83.39862,
+      "end": 84.35649,
+      "transcript": "siete seis tres."
+    },
+    {
+      "speaker": 0,
+      "start": 87.03053,
+      "end": 87.53053,
+      "transcript": "Siete"
+    },
+    {
+      "speaker": 0,
+      "start": 90.10368,
+      "end": 90.702354,
+      "transcript": "cinco mil."
+    },
+    {
+      "speaker": 0,
+      "start": 92.79179,
+      "end": 93.27027,
+      "transcript": "Cinco."
+    },
+    {
+      "speaker": 0,
+      "start": 94.50637,
+      "end": 97.89565,
+      "transcript": "Sí horario atención de nueve de la mañana, diecinueve horas de lunes a viernes,"
+    },
+    {
+      "speaker": 0,
+      "start": 98.49376,
+      "end": 100.48746,
+      "transcript": "y de nueve de la mañana catorce horas diez sábado."
+    },
+    {
+      "speaker": 0,
+      "start": 101.898735,
+      "end": 102.098335,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 102.77695,
+      "end": 103.755974,
+      "transcript": "Después falta."
+    },
+    {
+      "speaker": 0,
+      "start": 105.17207,
+      "end": 107.468414,
+      "transcript": "Dos dos siete seis tres cinco."
+    },
+    {
+      "speaker": 0,
+      "start": 108.72484,
+      "end": 109.20386,
+      "transcript": "Dos."
+    },
+    {
+      "speaker": 0,
+      "start": 110.40142,
+      "end": 110.680855,
+      "transcript": "Gracias."
+    },
+    {
+      "speaker": 0,
+      "start": 111.57332,
+      "end": 114.36307,
+      "transcript": "Con algún otro teléfono donde contactar a la señora Ana?"
+    },
+    {
+      "speaker": 0,
+      "start": 115.63839,
+      "end": 117.17458,
+      "transcript": "No, tengo quién."
+    },
+    {
+      "speaker": 0,
+      "start": 119.717964,
+      "end": 122.08887,
+      "transcript": "Ya. Bueno, para, por favor, para que se comunique."
+    },
+    {
+      "speaker": 0,
+      "start": 126.45227,
+      "end": 127.60674,
+      "transcript": "Muchas gracias, hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70823"
+  },
+  "AudioNombre": "FALBCSP_20220907-151705_56958208343_557_175429150-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALBCSP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296837264"
+    }
+  },
+  "HoraTranscripcion": "16:40:37",
+  "MT_DNIS": "56958208343",
+  "MT_Destinatario": "Javiera Belmar",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Javiera Belmar",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "MT_Folio": "309",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALBCSP_20220907-151705_56958208343_557_175429150-all",
+  "MT_NombreScript": "Acobro_BANCO CASTIGO",
+  "MT_RutDestinatario": "9315028-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "970",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALBCSP -CI",
+  "TiempoAudio": 102.23994,
+  "TiempoSilencio": 50.744101999999984,
+  "Agent_spk": -1,
+  "Confidence": 0.95263666,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 30.595001,
+      "end": 30.875,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 1,
+      "start": 32.915,
+      "end": 35.155,
+      "transcript": "Aló, buenas tardes. Con Don Juan Gutiérrez?"
+    },
+    {
+      "speaker": 0,
+      "start": 35.808548,
+      "end": 38.599724,
+      "transcript": "A la ocho ya lo encuentro, señorita. De parte de quién?"
+    },
+    {
+      "speaker": 1,
+      "start": 39.317455,
+      "end": 43.80485,
+      "transcript": "Javier Del Banco Cara, usted tiene el numerito de nosotros para que él se pudiese comunicar"
+    },
+    {
+      "speaker": 0,
+      "start": 45.915,
+      "end": 47.695,
+      "transcript": "Si mire, Sabe que? Hace como"
+    },
+    {
+      "speaker": 0,
+      "start": 48.355,
+      "end": 52.235,
+      "transcript": "el lunes, el lunes o el viernes pasado, llamaron por teléfono un caballero."
+    },
+    {
+      "speaker": 0,
+      "start": 52.754997,
+      "end": 53.915,
+      "transcript": "También de Banco Fa,"
+    },
+    {
+      "speaker": 0,
+      "start": 54.64797,
+      "end": 58.95382,
+      "transcript": "y yo le dije que ya había hecho el depósito en la oficina de de banco falabella."
+    },
+    {
+      "speaker": 1,
+      "start": 60.309364,
+      "end": 60.50871,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 62.10347,
+      "end": 62.60347,
+      "transcript": "Y"
+    },
+    {
+      "speaker": 0,
+      "start": 63.795,
+      "end": 69.575,
+      "transcript": "Y me dijo que igual de la que llamando, yo dije, yo hice el en la tienda y en el banco hicimos el abono que"
+    },
+    {
+      "speaker": 0,
+      "start": 70.729576,
+      "end": 71.28878,
+      "transcript": "que teniendo."
+    },
+    {
+      "speaker": 1,
+      "start": 73.40577,
+      "end": 82.81668,
+      "transcript": "Ya. Mire, lo que pasa es que yo no puedo entregar la información a usted porque el titular de cuenta es don Juan Luis Gu, por eso nosotros le estamos solicitando que él se comunique con Nosotros para dejar"
+    },
+    {
+      "speaker": 1,
+      "start": 83.19337,
+      "end": 84.38884,
+      "transcript": "la gestión en el sistema."
+    },
+    {
+      "speaker": 1,
+      "start": 84.94673,
+      "end": 89.4,
+      "transcript": "Ya? Nos puedo ubicar al numerito que usted tiene de nueve hasta las siete de la tarde."
+    },
+    {
+      "speaker": 1,
+      "start": 90.28,
+      "end": 92.119995,
+      "transcript": "Y el día sábado hasta hasta las dos de la tarde."
+    },
+    {
+      "speaker": 1,
+      "start": 92.77465,
+      "end": 96.69065,
+      "transcript": "Ya. Ya, señorita. Para que usted lo tira el que que comunique, por favor."
+    },
+    {
+      "speaker": 1,
+      "start": 97.36996,
+      "end": 100.08718,
+      "transcript": "Ya. Sí ya. Muchas gracias, eh? Hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7082b"
+  },
+  "AudioNombre": "FALFLUSP_20220907-105353_56945689181_501_175337066-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296833731"
+    }
+  },
+  "HoraTranscripcion": "16:40:33",
+  "MT_DNIS": "56945689181",
+  "MT_Destinatario": "Ximena lepin",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Ximena lepin",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662508800000"
+    }
+  },
+  "MT_Folio": "95",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220907-105353_56945689181_501_175337066-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "16389992-2",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 115.12793,
+  "TiempoSilencio": 54.47134200000006,
+  "Agent_spk": -1,
+  "Confidence": 0.90527344,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 7.5,
+      "end": 8.179999,
+      "transcript": "Aló, buenos días."
+    },
+    {
+      "speaker": 0,
+      "start": 9.193667,
+      "end": 9.392967,
+      "transcript": "No."
+    },
+    {
+      "speaker": 0,
+      "start": 10.429322,
+      "end": 12.023714,
+      "transcript": "Hablo con calle de vásquez Muñoz."
+    },
+    {
+      "speaker": 0,
+      "start": 13.976845,
+      "end": 15.17264,
+      "transcript": "Sí buenos, señora Fácil,"
+    },
+    {
+      "speaker": 0,
+      "start": 15.850256,
+      "end": 17.046051,
+      "transcript": "está con Steven Lepin."
+    },
+    {
+      "speaker": 0,
+      "start": 17.7,
+      "end": 20.220001,
+      "transcript": "Esperando mejor atención, esta conversación podría ser grabada."
+    },
+    {
+      "speaker": 0,
+      "start": 20.7,
+      "end": 24.560001,
+      "transcript": "Yo le estoy llamando de cobro por cargo de Banco A, por su tarjeta se."
+    },
+    {
+      "speaker": 0,
+      "start": 25.433342,
+      "end": 28.66166,
+      "transcript": "Una deuda y figura pendiente del mes de febrero del dos mil veintidós,"
+    },
+    {
+      "speaker": 0,
+      "start": 29.29935,
+      "end": 33.085648,
+      "transcript": "por un monto de dos millones quinientos cuarenta y seis mil novecientos cuarenta y un pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 33.897663,
+      "end": 36.567562,
+      "transcript": "Señora Katherine, El motivo del pago de esa deuda?"
+    },
+    {
+      "speaker": 0,
+      "start": 38.560024,
+      "end": 39.060024,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 41.56359,
+      "end": 41.84243,
+      "transcript": "Perdón?"
+    },
+    {
+      "speaker": 0,
+      "start": 42.51961,
+      "end": 43.497623,
+      "transcript": "Se encuentra Z?"
+    },
+    {
+      "speaker": 0,
+      "start": 44.829998,
+      "end": 45.329998,
+      "transcript": "Sí?"
+    },
+    {
+      "speaker": 0,
+      "start": 46.54287,
+      "end": 47.45906,
+      "transcript": "Quedó sin trabajo."
+    },
+    {
+      "speaker": 0,
+      "start": 53.1359,
+      "end": 54.970375,
+      "transcript": "Posibilidades de cancelar y salga una hora,"
+    },
+    {
+      "speaker": 0,
+      "start": 55.767975,
+      "end": 57.623898,
+      "transcript": "si luego no puede documentar cualquier"
+    },
+    {
+      "speaker": 0,
+      "start": 61.407585,
+      "end": 65.259224,
+      "transcript": "Aló? Hello? Ok. Esa deuda que la puede documentar, señora Katherine con?"
+    },
+    {
+      "speaker": 0,
+      "start": 68.20547,
+      "end": 68.48474,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 69.52203,
+      "end": 70.39974,
+      "transcript": "Sí. Me escucha?"
+    },
+    {
+      "speaker": 0,
+      "start": 73.27224,
+      "end": 73.59141,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 74.565,
+      "end": 76.285,
+      "transcript": "Ah lo recursos, momentito, pero la escucho."
+    },
+    {
+      "speaker": 0,
+      "start": 77.165,
+      "end": 81.16,
+      "transcript": "Ya. Posibilidad que esa deuda, señora Katherine, con que"
+    },
+    {
+      "speaker": 0,
+      "start": 82.73831,
+      "end": 83.23831,
+      "transcript": "No"
+    },
+    {
+      "speaker": 0,
+      "start": 83.65732,
+      "end": 84.85603,
+      "transcript": "que no que yo a dar aquí."
+    },
+    {
+      "speaker": 0,
+      "start": 88.25239,
+      "end": 97.01571,
+      "transcript": "Bueno, trate de regularizar antes posible porque para que el último haga vaya aumentar, señora Cáceres. Ya son dos mil dieciocho cuarenta y seis mil novecientos cuarenta y un pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 98.06802,
+      "end": 98.96656,
+      "transcript": "De todas maneras"
+    },
+    {
+      "speaker": 0,
+      "start": 99.78173,
+      "end": 103.249,
+      "transcript": "con dos de quinientos cuarenta y seis mil novecientos cuarenta y un pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 103.88666,
+      "end": 104.904755,
+      "transcript": "Ya de todas maneras,"
+    },
+    {
+      "speaker": 0,
+      "start": 105.600365,
+      "end": 108.615,
+      "transcript": "me no regular, nosotros la vamos a volver a llamar, señora Katherine."
+    },
+    {
+      "speaker": 0,
+      "start": 109.575,
+      "end": 109.695,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 111.215,
+      "end": 114.05499,
+      "transcript": "Muchas gracias, que tenga buen día. Hasta luego. Chao, gracias."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70836"
+  },
+  "AudioNombre": "FALFLUSP_20220909-111322_56949987275_484_175449335-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296849370"
+    }
+  },
+  "HoraTranscripcion": "16:40:49",
+  "MT_DNIS": "56949987275",
+  "MT_Destinatario": "Nicole Fuentes",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Nicole Fuentes",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662681600000"
+    }
+  },
+  "MT_Folio": "1058",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220909-111322_56949987275_484_175449335-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "26013021-8",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 143.56793,
+  "TiempoSilencio": 41.100183999999956,
+  "Agent_spk": -1,
+  "Confidence": 0.92813927,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 7.754089,
+      "end": 8.152687,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 8.591145,
+      "end": 11.602313,
+      "transcript": "Hola, buenos días. La señora Angie Ba Valencia?"
+    },
+    {
+      "speaker": 0,
+      "start": 12.218388,
+      "end": 13.015584,
+      "transcript": "Sí, con ella."
+    },
+    {
+      "speaker": 0,
+      "start": 13.573622,
+      "end": 19.136293,
+      "transcript": "Buenos días. Mi nombre es Nicole Fuentes, señorita Angie para su seguridad, le informo que la llamada está siendo grabada,"
+    },
+    {
+      "speaker": 0,
+      "start": 19.575766,
+      "end": 22.113327,
+      "transcript": "la llamo la cobro por el cambio de Banco Fa"
+    },
+    {
+      "speaker": 0,
+      "start": 22.652082,
+      "end": 23.951126,
+      "transcript": "por su tarjeta Cm."
+    },
+    {
+      "speaker": 0,
+      "start": 24.66422,
+      "end": 26.001701,
+      "transcript": "Por una deuda que mantiene,"
+    },
+    {
+      "speaker": 0,
+      "start": 26.73798,
+      "end": 29.330181,
+      "transcript": "de marzo, ciento veintisiete mil quinientos pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 30.52658,
+      "end": 30.80574,
+      "transcript": "Ya."
+    },
+    {
+      "speaker": 0,
+      "start": 31.563461,
+      "end": 34.2753,
+      "transcript": "Alguna posibilidad que usted le podría regularizar su deuda?"
+    },
+    {
+      "speaker": 0,
+      "start": 34.969215,
+      "end": 36.50781,
+      "transcript": "De poder cancelar el."
+    },
+    {
+      "speaker": 0,
+      "start": 37.5657,
+      "end": 40.82197,
+      "transcript": "Sí, la fianza regular, por es que por ahora también es metida"
+    },
+    {
+      "speaker": 0,
+      "start": 42.254528,
+      "end": 47.369305,
+      "transcript": "la verdad mi está difícil difícil sincera me sí la pienso hacer. Pero usted,"
+    },
+    {
+      "speaker": 0,
+      "start": 47.808853,
+      "end": 51.4851,
+      "transcript": "esta deuda que tiene de marzo. Por qué motivo dejó de pagar ahí por de inglés?"
+    },
+    {
+      "speaker": 0,
+      "start": 54.14,
+      "end": 55.16,
+      "transcript": "Quedé sin trabajo"
+    },
+    {
+      "speaker": 0,
+      "start": 56.379997,
+      "end": 61.135,
+      "transcript": "y duré fin llamó a ver ahorita lo que conseguir recién, marco"
+    },
+    {
+      "speaker": 0,
+      "start": 61.874126,
+      "end": 62.593277,
+      "transcript": "de dos meses."
+    },
+    {
+      "speaker": 0,
+      "start": 63.552143,
+      "end": 67.66728,
+      "transcript": "Usted usted quedó restante, por eso no pagó laura ahora recién quién está trabajando, eso?"
+    },
+    {
+      "speaker": 0,
+      "start": 68.70606,
+      "end": 69.619995,
+      "transcript": "Sí sí, yo"
+    },
+    {
+      "speaker": 0,
+      "start": 76.935,
+      "end": 78.715,
+      "transcript": "ya perfecto cuando calidad,"
+    },
+    {
+      "speaker": 0,
+      "start": 79.41499,
+      "end": 86.05499,
+      "transcript": "la idea es que, mire, nosotros somos empresa externo de cobranza, ya la deuda ya está cancelada porque tiene seis meses de atraso."
+    },
+    {
+      "speaker": 0,
+      "start": 86.6687,
+      "end": 88.643654,
+      "transcript": "Entonces, la idea que usted pueda regularizar"
+    },
+    {
+      "speaker": 0,
+      "start": 89.2997,
+      "end": 94.88061,
+      "transcript": "la próxima semana, por último, si no puede pagar el total, le hago cincuenta, porque en cantidad que usted yo tratando,"
+    },
+    {
+      "speaker": 0,
+      "start": 95.4545,
+      "end": 96.473816,
+      "transcript": "más tardar día,"
+    },
+    {
+      "speaker": 0,
+      "start": 96.93256,
+      "end": 102.32549,
+      "transcript": "para que pueda preguntar permítame, porque se le están descontando los intereses y los gastos de cobranza."
+    },
+    {
+      "speaker": 0,
+      "start": 102.97973,
+      "end": 107.87524,
+      "transcript": "Ya? Los ciento veintisiete mil quinientos pesos, ese pago lo puede hacer tres cm"
+    },
+    {
+      "speaker": 0,
+      "start": 108.25434,
+      "end": 113.104996,
+      "transcript": "o en el pago rápido de Banco Fa ingresando el rut y los cuatro últimos dígitos tarjeta."
+    },
+    {
+      "speaker": 0,
+      "start": 113.54499,
+      "end": 117.005,
+      "transcript": "Ya? Acá igual le van a volver a comunicar para que usted pueda"
+    },
+    {
+      "speaker": 0,
+      "start": 117.34499,
+      "end": 119.284996,
+      "transcript": "hacer efectivo su pago y poder confirmarlo."
+    },
+    {
+      "speaker": 0,
+      "start": 120.03844,
+      "end": 136.185,
+      "transcript": "Ya cualquier la que tenga, o cualquier información que requieran su hogar, comuníquese hasta dos dos siete treinta tres cinco mil de nueve a siete de la tarde de lunes a viernes el día sábado de de error. Ya? Ahora se voy dirá cómo conseguir el dinero para que la más que dio lo ideal, pero ahí usted no nos está informando. Ya?"
+    },
+    {
+      "speaker": 0,
+      "start": 137.07878,
+      "end": 140.22964,
+      "transcript": "Ya, vale. Ok, que tenga buen día, hasta luego. Gracias."
+    }
+  ],
+  "MotivoMoraCX": "CESANTE"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7083d"
+  },
+  "AudioNombre": "FALFLUSP_20220914-130228_56962456387_467_175637398-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296869634"
+    }
+  },
+  "HoraTranscripcion": "16:41:09",
+  "MT_DNIS": "56962456387",
+  "MT_Destinatario": "Nelly Paillal",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Nelly Paillal",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "MT_Folio": "2272",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220914-130228_56962456387_467_175637398-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "18037782-4",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 169.48795,
+  "TiempoSilencio": 49.57552880000003,
+  "Agent_spk": -1,
+  "Confidence": 0.9046464,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 7.9930263,
+      "end": 8.192353,
+      "transcript": "Aló."
+    },
+    {
+      "speaker": 0,
+      "start": 9.2837715,
+      "end": 13.27084,
+      "transcript": "Aló. Buenas tardes. En este número Puedo hablar con Valentina Jo Contreras?"
+    },
+    {
+      "speaker": 0,
+      "start": 13.948642,
+      "end": 14.466961,
+      "transcript": "Sí, soy yo."
+    },
+    {
+      "speaker": 0,
+      "start": 15.304245,
+      "end": 20.31,
+      "transcript": "Nelly yo mi nombre. Estoy llamando de la cobro por encargo de Fa por su tarjeta tiene un m."
+    },
+    {
+      "speaker": 0,
+      "start": 20.71,
+      "end": 24.130001,
+      "transcript": "El motivo del llamado es Paillal la cerca de la deuda que mantiene pendiente."
+    },
+    {
+      "speaker": 0,
+      "start": 24.51,
+      "end": 26.77,
+      "transcript": "Ajá. Ya la deuda está en setecientos"
+    },
+    {
+      "speaker": 0,
+      "start": 27.20424,
+      "end": 28.32037,
+      "transcript": "seis mil cien pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 28.918295,
+      "end": 33.701706,
+      "transcript": "Esta deuda ya cayó en la etapa de cobranza, en donde si cubre la deuda total,"
+    },
+    {
+      "speaker": 0,
+      "start": 34.73811,
+      "end": 35.43742,
+      "transcript": "o poder"
+    },
+    {
+      "speaker": 0,
+      "start": 36.589054,
+      "end": 38.627,
+      "transcript": "hacer un seguimiento de abono lo que se preste ahora."
+    },
+    {
+      "speaker": 0,
+      "start": 39.54607,
+      "end": 41.204903,
+      "transcript": "Verdad? Este el monto?"
+    },
+    {
+      "speaker": 0,
+      "start": 42.42317,
+      "end": 42.583004,
+      "transcript": "Cómo?"
+    },
+    {
+      "speaker": 0,
+      "start": 44.021553,
+      "end": 44.521553,
+      "transcript": "Le"
+    },
+    {
+      "speaker": 0,
+      "start": 45.91368,
+      "end": 55.316223,
+      "transcript": "porque mire esta deuda, como le mencionaba, y prepa, por tras, el mismo, ni luego negociar la deuda. La cuestión que tenemos después de dividir esta deuda, hasta el día"
+    },
+    {
+      "speaker": 0,
+      "start": 55.73397,
+      "end": 56.912304,
+      "transcript": "viernes almacén me darían"
+    },
+    {
+      "speaker": 0,
+      "start": 57.928577,
+      "end": 60.721714,
+      "transcript": "abonos de la cuenta de setenta y un mil seiscientos diez pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 61.734097,
+      "end": 63.111458,
+      "transcript": "Es lo que podemos ofrecerle."
+    },
+    {
+      "speaker": 0,
+      "start": 63.88762,
+      "end": 70.5077,
+      "transcript": "Si es que no puede cancelar el total. Ahora si cancela total, también le podemos hacer un descuento del diez por ciento de descuento que cancelar total?"
+    },
+    {
+      "speaker": 0,
+      "start": 71.63921,
+      "end": 75.487274,
+      "transcript": "Que queríamos saber ahí. El motivo del cual usted dejó de cancelar,"
+    },
+    {
+      "speaker": 0,
+      "start": 75.98372,
+      "end": 77.59974,
+      "transcript": "tuvo que, con licencia,"
+    },
+    {
+      "speaker": 0,
+      "start": 78.13604,
+      "end": 78.773766,
+      "transcript": "Paillal,"
+    },
+    {
+      "speaker": 0,
+      "start": 80.46431,
+      "end": 85.91877,
+      "transcript": "Sí, que tuve problema a principio de año, estuve con problemas de dinero"
+    },
+    {
+      "speaker": 0,
+      "start": 86.85716,
+      "end": 87.35716,
+      "transcript": "y"
+    },
+    {
+      "speaker": 0,
+      "start": 87.896,
+      "end": 91.42348,
+      "transcript": "ya me atras con las con las cuentas y con todo en verdad."
+    },
+    {
+      "speaker": 0,
+      "start": 93.219,
+      "end": 96.845,
+      "transcript": "Claro. Entonces, esa lapso que tenemos como para entregarle y la"
+    },
+    {
+      "speaker": 0,
+      "start": 97.66235,
+      "end": 99.39834,
+      "transcript": "está, no siga subiendo,"
+    },
+    {
+      "speaker": 0,
+      "start": 99.89511,
+      "end": 104.30244,
+      "transcript": "y no parte a otra instancia, es hacer un seguimiento de abono"
+    },
+    {
+      "speaker": 0,
+      "start": 104.67959,
+      "end": 105.77765,
+      "transcript": "con diez meses"
+    },
+    {
+      "speaker": 0,
+      "start": 106.33,
+      "end": 108.45,
+      "transcript": "setenta y un mil seiscientos diez pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 109.93,
+      "end": 111.11,
+      "transcript": "En caso de cancelar,"
+    },
+    {
+      "speaker": 0,
+      "start": 112.33,
+      "end": 118.71223,
+      "transcript": "se el quince, un ejemplo, serían las quince fechas de pago, los pagos se hacen directo en banco para ver las Cm,"
+    },
+    {
+      "speaker": 0,
+      "start": 119.32855,
+      "end": 122.159256,
+      "transcript": "o el pago rápido como usted se ha hecho, por favor."
+    },
+    {
+      "speaker": 0,
+      "start": 122.79716,
+      "end": 122.996506,
+      "transcript": "Ajá."
+    },
+    {
+      "speaker": 0,
+      "start": 123.84956,
+      "end": 129.64291,
+      "transcript": "Ya el acuerdo el acuerdo Paillal la ex de la deuda hasta que se vea efectuado el último pago de su abono."
+    },
+    {
+      "speaker": 0,
+      "start": 130.64177,
+      "end": 130.80159,
+      "transcript": "Verdad?"
+    },
+    {
+      "speaker": 0,
+      "start": 131.56071,
+      "end": 131.80043,
+      "transcript": "Ok."
+    },
+    {
+      "speaker": 0,
+      "start": 132.49501,
+      "end": 138.77501,
+      "transcript": "Entonces, ahí queríamos saber si va a poder realizar este pago o o o pagar plan, o algún otro tipo de abono."
+    },
+    {
+      "speaker": 0,
+      "start": 139.98965,
+      "end": 142.7464,
+      "transcript": "La verdad que le dices que si un momento no podría."
+    },
+    {
+      "speaker": 0,
+      "start": 144.06483,
+      "end": 147.78046,
+      "transcript": "Nosotros dejamos registro, bueno, ahí la conversaciones que al grabado,"
+    },
+    {
+      "speaker": 0,
+      "start": 148.63501,
+      "end": 162.72136,
+      "transcript": "nos puede devolver igual el llamado veintidós siete seis tres cinco mil, aunque igual tenemos que tener mínimo un contacto las semana que tú la van ayer volver a llamar y le van a mencionar siempre es lo mismo. Sí. Ya? Que tenga buen día. Gracias, hasta luego."
+    }
+  ],
+  "MotivoMoraCX": "LICENCIA MEDICA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7083f"
+  },
+  "AudioNombre": "FALRESP_20220910-125556_56953670812_485_175459783-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALRESP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296853948"
+    }
+  },
+  "HoraTranscripcion": "16:40:53",
+  "MT_DNIS": "56953670812",
+  "MT_Destinatario": "Denis Rivas",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Denis Rivas",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662768000000"
+    }
+  },
+  "MT_Folio": "1335",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALRESP_20220910-125556_56953670812_485_175459783-all",
+  "MT_NombreScript": "Acobro_BANCO REQUESICIONES",
+  "MT_RutDestinatario": "13122387-0",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "969",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALRESP -CD",
+  "TiempoAudio": 193.96794,
+  "TiempoSilencio": 139.26002400000002,
+  "Agent_spk": -1,
+  "Confidence": 0.90283203,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 16.23394,
+      "end": 19.065418,
+      "transcript": "Podría, por favor, con don Alexis As Man,"
+    },
+    {
+      "speaker": 0,
+      "start": 19.718945,
+      "end": 20.237846,
+      "transcript": "Sí con él."
+    },
+    {
+      "speaker": 0,
+      "start": 21.275654,
+      "end": 22.39329,
+      "transcript": "Buen día, Alexis."
+    },
+    {
+      "speaker": 0,
+      "start": 22.872278,
+      "end": 27.462574,
+      "transcript": "Mi nombre es de, y le estoy llamando de la empresa cobro que fueran en cargo de Banco Fa,"
+    },
+    {
+      "speaker": 0,
+      "start": 28.061306,
+      "end": 30.992466,
+      "transcript": "para seguridad llamada podría estar siendo grabada."
+    },
+    {
+      "speaker": 0,
+      "start": 31.55185,
+      "end": 34.169514,
+      "transcript": "Es una deuda que tiene con un crédito de consumo"
+    },
+    {
+      "speaker": 0,
+      "start": 34.70837,
+      "end": 35.52802,
+      "transcript": "de empleados"
+    },
+    {
+      "speaker": 0,
+      "start": 36.06687,
+      "end": 45.233692,
+      "transcript": "de rest de este año, queremos saber lo usted algunas opciones de pago para hacer de alexis y el motivo por el que no había podido hacerlo, que estuvo que"
+    },
+    {
+      "speaker": 0,
+      "start": 45.905,
+      "end": 47.844997,
+      "transcript": "endeudamiento, licencia, baja?"
+    },
+    {
+      "speaker": 0,
+      "start": 48.704998,
+      "end": 50.065,
+      "transcript": "No, que se salta de octubre,"
+    },
+    {
+      "speaker": 0,
+      "start": 51.184998,
+      "end": 56.06,
+      "transcript": "que tanto de decir. Octubre pagué lo máximo el último de febrero"
+    },
+    {
+      "speaker": 0,
+      "start": 56.44,
+      "end": 58.48,
+      "transcript": "me acuerdo la última que pagué, total."
+    },
+    {
+      "speaker": 0,
+      "start": 60.52,
+      "end": 62.68,
+      "transcript": "Ok, explico. El sistema tiene que salir,"
+    },
+    {
+      "speaker": 0,
+      "start": 63.811707,
+      "end": 66.482315,
+      "transcript": "Ok, le explico, a la fecha el monto de la deuda,"
+    },
+    {
+      "speaker": 0,
+      "start": 67.08021,
+      "end": 68.55502,
+      "transcript": "se un solo monto,"
+    },
+    {
+      "speaker": 0,
+      "start": 69.35222,
+      "end": 76.53385,
+      "transcript": "ya le acelerar las cuotas y este los cuatro millones quinientos cincuenta mil cuatrocientos diecinueve. Este monto originalmente"
+    },
+    {
+      "speaker": 0,
+      "start": 76.87274,
+      "end": 79.745,
+      "transcript": "está sobre los casi cinco millones, dice un descuento"
+    },
+    {
+      "speaker": 0,
+      "start": 80.325,
+      "end": 82.705,
+      "transcript": "de casi quinientos mil quedando en cuatro mil"
+    },
+    {
+      "speaker": 0,
+      "start": 83.205,
+      "end": 84.365,
+      "transcript": "espéreme un poquito ver, por favor."
+    }
+  ],
+  "MotivoMoraCX": "LICENCIA MEDICA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f70848"
+  },
+  "AudioNombre": "FALFLUSP_20220915-100009_56931963320_484_175641314-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CD",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296873848"
+    }
+  },
+  "HoraTranscripcion": "16:41:13",
+  "MT_DNIS": "56931963320",
+  "MT_Destinatario": "Nicole Fuentes",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Nicole Fuentes",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1663200000000"
+    }
+  },
+  "MT_Folio": "2524",
+  "MT_IDScript": "1",
+  "MT_MotivoMora": "no definido",
+  "MT_NombreAudio": "FALFLUSP_20220915-100009_56931963320_484_175641314-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "18712248-1",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "1",
+  "MT_TipoLlamadaNombre": "Contacto Directo",
+  "MT_UnidadNegocio": "FALFLUSP -CD",
+  "TiempoAudio": 145.29593,
+  "TiempoSilencio": 50.49534149999995,
+  "Agent_spk": -1,
+  "Confidence": 0.9160156,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 10.215,
+      "end": 10.495,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 11.8550005,
+      "end": 12.655001,
+      "transcript": "Hola, buenos días."
+    },
+    {
+      "speaker": 0,
+      "start": 13.615,
+      "end": 14.055,
+      "transcript": "Buenos días."
+    },
+    {
+      "speaker": 0,
+      "start": 15.015,
+      "end": 17.575,
+      "transcript": "Me con este número telefónico con la señora Martha Soto vera?"
+    },
+    {
+      "speaker": 0,
+      "start": 18.388746,
+      "end": 20.80459,
+      "transcript": "Sí, con miguel. Buenos días, Señora Martha"
+    },
+    {
+      "speaker": 0,
+      "start": 21.142773,
+      "end": 26.850391,
+      "transcript": "fuentes. Para su seguridad le informo que la llamada está siendo grabada. Me lo llamo la cobro por el encargado de Banco Fa?"
+    },
+    {
+      "speaker": 0,
+      "start": 27.8629,
+      "end": 32.291515,
+      "transcript": "Por su tarjeta G r, la deuda de trescientos veinte mil novecientos que viene el mes de marzo."
+    },
+    {
+      "speaker": 0,
+      "start": 33.40864,
+      "end": 33.528336,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 35.537518,
+      "end": 38.088417,
+      "transcript": "Alguna posibilidades que pueda cancelar hasta día veinte?"
+    },
+    {
+      "speaker": 0,
+      "start": 39.48344,
+      "end": 40.479885,
+      "transcript": "Pero no la totalidad?"
+    },
+    {
+      "speaker": 0,
+      "start": 41.277042,
+      "end": 42.313347,
+      "transcript": "No total, perfecto."
+    },
+    {
+      "speaker": 0,
+      "start": 46.554733,
+      "end": 52.45631,
+      "transcript": "Cuánto es lo que puede cancelar el cincuenta por ciento? Tu deuda esta cantidad señora Martha. Cuál es motivo tiempo por cuando había podido pagar?"
+    },
+    {
+      "speaker": 0,
+      "start": 54.308228,
+      "end": 56.72583,
+      "transcript": "De ingreso, problemas económicos, no"
+    },
+    {
+      "speaker": 0,
+      "start": 59.381878,
+      "end": 59.881878,
+      "transcript": "claro."
+    },
+    {
+      "speaker": 0,
+      "start": 60.58038,
+      "end": 60.700226,
+      "transcript": "Sí,"
+    },
+    {
+      "speaker": 0,
+      "start": 61.395004,
+      "end": 63.275005,
+      "transcript": "Ya. Y cuánto le queda poder abonar entonces?"
+    },
+    {
+      "speaker": 0,
+      "start": 64.075005,
+      "end": 67.675,
+      "transcript": "Pues que puedo tener lo que yo pueda o pagar ahí en algún cobro."
+    },
+    {
+      "speaker": 0,
+      "start": 68.488716,
+      "end": 78.79931,
+      "transcript": "Lo que pasa es que nosotros igual le des los intereses y los gastos de cobranza. Ya? Le cobramos solamente su deuda capital, la idea, cierto que pueda liquidar el total para que deuda quiere ser y le indique la cobranza."
+    },
+    {
+      "speaker": 0,
+      "start": 79.39751,
+      "end": 79.89751,
+      "transcript": "Obviamente"
+    },
+    {
+      "speaker": 0,
+      "start": 80.274864,
+      "end": 85.5789,
+      "transcript": "si no tiene como pagar, el total, nosotros siempre solicitamos el cincuenta por ciento de la totalidad."
+    },
+    {
+      "speaker": 0,
+      "start": 87.79001,
+      "end": 90.15001,
+      "transcript": "Realmente caso serían ciento sesenta mil pesos."
+    },
+    {
+      "speaker": 0,
+      "start": 91.11001,
+      "end": 96.450005,
+      "transcript": "Porque iba saber lo que había pasado a castigo y está en una empresa externa de cobranza ya no tiene ninguna alternativa en la nivel red,"
+    },
+    {
+      "speaker": 0,
+      "start": 97.08407,
+      "end": 98.32021,
+      "transcript": "ni lo re al deuda."
+    },
+    {
+      "speaker": 0,
+      "start": 99.51648,
+      "end": 100.55324,
+      "transcript": "Ah, ok, perfecto."
+    },
+    {
+      "speaker": 0,
+      "start": 101.70963,
+      "end": 106.25544,
+      "transcript": "Ya. Tiene usted cómo cancelar o no tiene? No, no tengo cómo entrar la."
+    },
+    {
+      "speaker": 0,
+      "start": 107.22742,
+      "end": 108.86225,
+      "transcript": "Ya, perfecto. Cuánto es lo que puede abonar?"
+    },
+    {
+      "speaker": 0,
+      "start": 110.7762,
+      "end": 126.51851,
+      "transcript": "Treinta, pero este, si t-mobile voy a ver si tengo la posibilidad de conseguir para poder abonar más. Ya. V. Igual de todas maneras, estoy martes, nosotros estamos trabajando de lunes a viernes, de que el sábado de las dos de la tarde, cualquier cosa que necesite se puede comunicar a dos dos siete seis tres, cinco mil y y,"
+    },
+    {
+      "speaker": 0,
+      "start": 127.63737,
+      "end": 130.53491,
+      "transcript": "ya recuerde que el pago lo puede hacer presencial directamente"
+    },
+    {
+      "speaker": 0,
+      "start": 131.19373,
+      "end": 134.86499,
+      "transcript": "o lo puede hacer a través del pago rápido de Banco Fa ingresando root"
+    },
+    {
+      "speaker": 0,
+      "start": 135.71983,
+      "end": 136.21983,
+      "transcript": "con"
+    },
+    {
+      "speaker": 0,
+      "start": 136.87286,
+      "end": 138.22472,
+      "transcript": "esos cuatro últimos dijiste de la tarjeta?"
+    },
+    {
+      "speaker": 0,
+      "start": 142.06093,
+      "end": 142.56093,
+      "transcript": "No"
+    },
+    {
+      "speaker": 0,
+      "start": 143.18092,
+      "end": 145.29593,
+      "transcript": "tenga, buen día. Luego luego"
+    }
+  ],
+  "MotivoMoraCX": "INCERTIDUMBRE ECONOMICA"
+},{
+  "_id": {
+    "$oid": "633350996ce3123a75f7084e"
+  },
+  "AudioNombre": "FALFLUSP_20220909-103409_56933052189_485_175448328-all.mp3",
+  "AudioRuta": "/acobro/audios/ACOBRO/21-09-22/",
+  "ArchicMetadata": "/acobro/audios/ACOBRO/21-09-22/Metadata.csv",
+  "Estado": "evaluado",
+  "Campania": "FALFLUSP -CI",
+  "Cliente": "ACOBRO",
+  "Fecha": {
+    "$date": {
+      "$numberLong": "1663718400000"
+    }
+  },
+  "FechaTranscripcion": {
+    "$date": {
+      "$numberLong": "1664296847357"
+    }
+  },
+  "HoraTranscripcion": "16:40:47",
+  "MT_DNIS": "56933052189",
+  "MT_Destinatario": "Denis Rivas",
+  "MT_DireccionLLamada": "OUTBOUND",
+  "MT_Ejecutivo": "Denis Rivas",
+  "MT_FechaLlamada": {
+    "$date": {
+      "$numberLong": "1662681600000"
+    }
+  },
+  "MT_Folio": "929",
+  "MT_IDScript": "2",
+  "MT_MotivoMora": "no aplica",
+  "MT_NombreAudio": "FALFLUSP_20220909-103409_56933052189_485_175448328-all",
+  "MT_NombreScript": "Acobro_FLUJO",
+  "MT_RutDestinatario": "15794448-7",
+  "MT_TiempoLLamado": "",
+  "MT_TipoLlamadaCodigo": "2",
+  "MT_TipoLlamadaNombre": "Contacto Indirecto",
+  "MT_UnidadNegocio": "FALFLUSP -CI",
+  "TiempoAudio": 65.30394,
+  "TiempoSilencio": 32.994600999999996,
+  "Agent_spk": -1,
+  "Confidence": 0.921875,
+  "TranscritoChat": [
+    {
+      "speaker": 0,
+      "start": 11.601447,
+      "end": 11.880833,
+      "transcript": "Aló?"
+    },
+    {
+      "speaker": 0,
+      "start": 13.636973,
+      "end": 17.42864,
+      "transcript": "Buen día. Por favor. Con con don Felipe Figueroa Monday."
+    },
+    {
+      "speaker": 0,
+      "start": 18.386536,
+      "end": 18.905396,
+      "transcript": "De parte?"
+    },
+    {
+      "speaker": 0,
+      "start": 19.718582,
+      "end": 24.188354,
+      "transcript": "Mi nombre es Rivas, y yo le llamo de Banco Fa. Vivo con el consumidor familiar de don Felipe."
+    },
+    {
+      "speaker": 0,
+      "start": 24.707167,
+      "end": 27.6205,
+      "transcript": "Usted habla con la señora de él? Sabe qué otro diego él mira llamaron?"
+    },
+    {
+      "speaker": 0,
+      "start": 28.875,
+      "end": 30.015,
+      "transcript": "Cómo seguro?"
+    },
+    {
+      "speaker": 0,
+      "start": 32.395,
+      "end": 33.875,
+      "transcript": "Don Felipe se encuentra detenido?"
+    },
+    {
+      "speaker": 0,
+      "start": 34.555,
+      "end": 34.675,
+      "transcript": "Sí."
+    },
+    {
+      "speaker": 0,
+      "start": 36.366005,
+      "end": 36.866005,
+      "transcript": "Comprendo."
+    },
+    {
+      "speaker": 0,
+      "start": 37.681377,
+      "end": 38.380676,
+      "transcript": "Sí, porque"
+    },
+    {
+      "speaker": 0,
+      "start": 38.79745,
+      "end": 43.522594,
+      "transcript": "le voy a preguntar por si tenía otro número, entonces ya lo podríamos localizar pero que"
+    },
+    {
+      "speaker": 0,
+      "start": 44.71377,
+      "end": 47.570683,
+      "transcript": "Será que yo dejar usted nuestro número"
+    },
+    {
+      "speaker": 0,
+      "start": 47.94953,
+      "end": 51.025497,
+      "transcript": "y cuando ya él salga esa condición, No pueda devolver la llamada?"
+    },
+    {
+      "speaker": 0,
+      "start": 52.120003,
+      "end": 54.640003,
+      "transcript": "mire, para de que él tiene acá mucho tiempo."
+    },
+    {
+      "speaker": 0,
+      "start": 57.160004,
+      "end": 57.600002,
+      "transcript": "Comprendo."
+    },
+    {
+      "speaker": 0,
+      "start": 58.88,
+      "end": 60.420002,
+      "transcript": "Vamos a dejar registrar porque"
+    },
+    {
+      "speaker": 0,
+      "start": 61.086525,
+      "end": 61.825523,
+      "transcript": "muchas gracias."
+    },
+    {
+      "speaker": 0,
+      "start": 63.237526,
+      "end": 63.737526,
+      "transcript": "No"
+    }
+  ],
+  "MotivoMoraCX": "no aplica"
+}]
